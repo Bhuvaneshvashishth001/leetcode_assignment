@@ -1,0 +1,35 @@
+2236. Root Equals Sum of Children
+
+actually it is so easy problem because in this we give only one root with its left and right but try to give something from yourself do in different way try it with your own first think about
+agar ye esa hota too yaa phir esa hota too 
+that's why i have done this problem in the different way to think about for differebt root with its left and right
+
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+    public static boolean dfs(TreeNode root){
+        if(root == null){
+            return true;
+        }
+        if(root.left!=null && root.right!=null){
+            return root.val == (root.left.val+root.right.val);
+        }
+        return dfs(root.left) && dfs(root.right);
+    }
+    public boolean checkTree(TreeNode root) {
+        return dfs(root);
+    }
+}
