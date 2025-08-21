@@ -1,0 +1,59 @@
+1-   Maximum Width of Tree
+
+
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+    class Pair{
+        TreeNode node;
+        int level;
+        public Pair(TreeNode node,int level){
+            this.node = node;
+            this.level= level;
+        }
+    }
+    public int widthOfBinaryTree(TreeNode root) {
+        Queue<Pair> queue = new LinkedList<>();
+        queue.offer(new Pair(root,0));
+        int max = 0;
+        while(!queue.isEmpty()){
+            int minlev = queue.peek().level;
+            int size = queue.size();
+            int first =0;
+            int last=0;
+            for(int i=0;i<size;i++){
+                Pair P = queue.poll();
+                TreeNode node = P.node;
+                int currlev = P.level;
+                int lev = currlev-minlev;
+                if(i==0){
+                    first=lev;
+                }
+                if(i==size-1){
+                    last=lev;
+                }
+                if(node.left!=null){
+                    queue.offer(new Pair(node.left,2*lev+1));
+                }
+                if(node.right!=null){
+                    queue.offer(new Pair(node.right,2*lev+2));
+                }
+            }
+            max = Math.max(max,last-first+1);
+        }
+        return max;
+    }
+}
