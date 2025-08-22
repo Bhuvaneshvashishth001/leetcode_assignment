@@ -2,6 +2,7 @@ Most appropriate Solution
 
 Intution --- add left node of each node in queue simultaneously add right node into list 
 
+bfs approach
 
 class Tree {
     public ArrayList<Integer> diagonal(Node root) {
@@ -18,6 +19,34 @@ class Tree {
                 }
                 node = node.right;
             }
+        }
+        return list;
+    }
+}
+
+
+dfs approach
+
+
+class Tree {
+    public static void dfs(Node root,Map<Integer,ArrayList<Integer>> map,int lev){
+        if(root ==null){
+            return;
+        }
+        if(!map.containsKey(lev)){
+            map.put(lev,new ArrayList<>());
+        }
+        map.get(lev).add(root.data);
+        dfs(root.left,map,lev+1);
+        dfs(root.right,map,lev);
+    }
+    public ArrayList<Integer> diagonal(Node root) {
+        // add your code here.
+        Map<Integer,ArrayList<Integer>> map = new HashMap<>();
+        dfs(root,map,0);
+        ArrayList<Integer> list = new ArrayList<>();
+        for(ArrayList<Integer> node:map.values()){
+            list.addAll(node);
         }
         return list;
     }
