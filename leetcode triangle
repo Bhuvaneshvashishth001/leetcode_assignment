@@ -1,0 +1,69 @@
+using recursion
+
+class Solution {
+    public static int path(List<List<Integer>> tri,int row,int col){
+        if(row == tri.size()-1){
+            return tri.get(row).get(col);
+        }
+        int minPath = Integer.MAX_VALUE;
+        int first = path(tri,row+1,col);
+        int second = path(tri,row+1,col+1);
+        minPath = Math.min(first,second)+tri.get(row).get(col);
+        return minPath;
+    }
+    public int minimumTotal(List<List<Integer>> tri) {
+        return path(tri,0,0);
+    }
+}
+
+using memorization
+
+class Solution {
+    public static int path(List<List<Integer>> tri,int row,int col,List<List<Integer>> adj){
+        if(row == tri.size()-1){
+            return tri.get(row).get(col);
+        }
+        if(adj.get(row).get(col) != 0){
+            return adj.get(row).get(col);
+        }
+        int minPath = Integer.MAX_VALUE;
+        int first = path(tri,row+1,col,adj);
+        int second = path(tri,row+1,col+1,adj);
+        minPath = Math.min(first,second)+tri.get(row).get(col);
+        adj.get(row).set(col, minPath);
+        return minPath;
+    }
+    public int minimumTotal(List<List<Integer>> tri) {
+        List<List<Integer>> adj = new ArrayList<>();
+        for(int i=0;i<tri.size();i++){
+            List<Integer>edge = new ArrayList<>();
+            for(int j=0;j<tri.get(i).size();j++){
+                edge.add(0);
+            }
+            adj.add(edge);
+        }
+        return path(tri,0,0,adj);
+    }
+}
+
+tabulation
+
+class Solution {
+    public int minimumTotal(List<List<Integer>> tri) {
+        List<List<Integer>> list = new ArrayList<>();
+        int n = tri.size();
+        List<Integer> dp = new ArrayList<>();
+        for(int i=0;i<tri.get(n-1).size(); i++){   
+            dp.add(tri.get(n-1).get(i));
+        }
+        for(int i=tri.size()-2;i>=0;i--){
+            List<Integer> row = new ArrayList<>();
+            for(int j=0;j<tri.get(i).size() ;j++){
+                int min = Math.min(dp.get(j),dp.get(j+1)) + tri.get(i).get(j);
+                row.add(min);
+            }
+            dp = row;
+        }
+        return dp.get(0);
+    }
+}
