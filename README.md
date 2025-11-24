@@ -24,6 +24,7 @@
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0155-min-stack) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
@@ -34,4 +35,16 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0155-min-stack) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
