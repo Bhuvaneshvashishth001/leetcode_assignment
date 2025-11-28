@@ -26,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0474-ones-and-zeroes) |
 | [0605-can-place-flowers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0605-can-place-flowers) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -72,9 +73,14 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0409-longest-palindrome) |
+| [0474-ones-and-zeroes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0474-ones-and-zeroes) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0605-can-place-flowers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
