@@ -1,26 +1,37 @@
-class Solution{
-    public List<Integer> eventualSafeNodes(int[][] graph){
-        int n=graph.length;
-        int[] state=new int[n];
-        List<Integer> result=new ArrayList<>();
-        for(int i=0;i<n;i++){
-            if(dfs(i,graph,state)){
-                result.add(i);
+class Solution {
+    public List<Integer> eventualSafeNodes(int[][] graph) {
+        int V= graph.length;
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+        for(int i=0;i<V;i++){
+            adj.add(new ArrayList<>());
+        }
+        int outdegree[] = new int[V];
+        int u=0;
+        for(int edge[]:graph){
+            for(int i=0;i<edge.length;i++){
+                adj.get(edge[i]).add(u);
+                outdegree[u]++;
+            }
+            u++;
+        }
+        Queue<Integer> queue = new LinkedList<>();
+            List<Integer>list = new ArrayList<>();
+        for(int i=0;i<V;i++){
+            if(outdegree[i] ==0){
+                queue.add(i);
             }
         }
-        return result;
-    }
-    private boolean dfs(int node,int[][] graph,int[] state){
-        if(state[node]>0){
-            return state[node]==2;
-        }
-        state[node]=1;
-        for(int nei:graph[node]){
-            if(!dfs(nei,graph,state)){
-                return false;
+        while(!queue.isEmpty()){
+            int node = queue.poll();
+            list.add(node);
+            for(int ele:adj.get(node)){
+                outdegree[ele]--;
+                if(outdegree[ele] ==0){
+                    queue.add(ele);
+                }
             }
         }
-        state[node]=2;
-        return true;
+        Collections.sort(list);
+        return list;
     }
 }
