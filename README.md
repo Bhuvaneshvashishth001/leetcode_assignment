@@ -10,6 +10,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1462-course-schedule-iv) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0785-is-graph-bipartite](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1462-course-schedule-iv) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1462-course-schedule-iv) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +77,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1462-course-schedule-iv) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Bit Manipulation
 |  |
 | ------- |
