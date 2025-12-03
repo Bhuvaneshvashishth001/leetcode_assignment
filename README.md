@@ -18,6 +18,7 @@
 | [0210-course-schedule-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0802-find-eventual-safe-states) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1462-course-schedule-iv](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1462-course-schedule-iv) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Union Find
@@ -41,6 +42,7 @@
 | [0605-can-place-flowers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0605-can-place-flowers) |
 | [0851-loud-and-rich](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0851-loud-and-rich) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Stack
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0292-nim-game) |
+## Matrix
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
