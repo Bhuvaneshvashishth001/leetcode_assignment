@@ -1,49 +1,47 @@
 class Solution {
-    class Tuple {
-        int row, col, effort;
-        public Tuple(int row, int col, int effort) {
+    class Tuple{
+        int row;
+        int col;
+        int eff;
+        public Tuple(int row,int col,int eff){
             this.row = row;
             this.col = col;
-            this.effort = effort;
+            this.eff = eff;
         }
     }
-
-    public int minimumEffortPath(int[][] heights) {
-        int n = heights.length;
-        int m = heights[0].length;
-
-        int[][] dist = new int[n][m]; 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                dist[i][j] = Integer.MAX_VALUE;
-            }
+    public int minimumEffortPath(int[][] height) {
+        int n = height.length;
+        int m = height[0].length;
+        int visited[][]= new int[n][m];
+        for(int arr[]:visited){
+            Arrays.fill(arr,Integer.MAX_VALUE);
         }
-
-        PriorityQueue<Tuple> pq = new PriorityQueue<>((a, b) -> a.effort - b.effort);
-        pq.add(new Tuple(0, 0, 0));
-        dist[0][0] = 0;
-
-        int[] dr = {-1, 0, 1, 0};
-        int[] dc = {0, -1, 0, 1};
-
-        while (!pq.isEmpty()) {
-            Tuple t = pq.poll();
-            int row = t.row, col = t.col, effort = t.effort;
-
-            if (row == n - 1 && col == m - 1) return effort;
-
-            for (int i = 0; i < 4; i++) {
-                int nr = row + dr[i];
-                int nc = col + dc[i];
-                if (nr >= 0 && nr < n && nc >= 0 && nc < m) {
-                    int nextEffort = Math.max(effort, Math.abs(heights[nr][nc] - heights[row][col]));
-                    if (nextEffort < dist[nr][nc]) {
-                        dist[nr][nc] = nextEffort;
-                        pq.add(new Tuple(nr, nc, nextEffort));
+        PriorityQueue<Tuple> queue = new PriorityQueue<>((a,b)->a.eff-b.eff);
+        queue.add(new Tuple(0,0,0));
+        int dr[] = {-1,0,0,1};
+        int dc[] = {0,-1,1,0};
+        while(!queue.isEmpty()){
+            Tuple t = queue.poll();
+            int x= t.row;
+            int y= t.col;
+            int diff = t.eff;
+            if(x ==n-1 && y == m-1){
+                return diff;
+            }
+            for(int i=0;i<4;i++){
+                int drow = x+dr[i];
+                int dcol = y+dc[i];
+                if(drow>=0 && drow<n && dcol>=0 && dcol<m){
+                    int node = height[x][y];
+                    int ele = height[drow][dcol];
+                    int nexeff = Math.max(diff,Math.abs(ele-node));
+                    if(visited[drow][dcol]>nexeff){
+                        visited[drow][dcol] = nexeff;
+                        queue.add(new Tuple(drow,dcol,nexeff));
                     }
                 }
             }
         }
-        return 0;
+        return -1;
     }
 }
