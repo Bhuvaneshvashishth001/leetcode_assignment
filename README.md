@@ -50,6 +50,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## Stack
 |  |
 | ------- |
@@ -89,10 +90,12 @@
 |  |
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1018-binary-prefix-divisible-by-5) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## Hash Table
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0409-longest-palindrome) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## String
 |  |
 | ------- |
@@ -138,4 +141,5 @@
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 <!---LeetCode Topics End-->
