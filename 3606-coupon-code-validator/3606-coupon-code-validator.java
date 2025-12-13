@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public List<String> validateCoupons(String[] code, String[] business, boolean[] isActive) {
         Set<String> set1 = new HashSet<>();
