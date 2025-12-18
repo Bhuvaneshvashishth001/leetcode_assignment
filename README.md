@@ -43,6 +43,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0039-combination-sum) |
@@ -82,6 +83,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0011-container-with-most-water) |
 | [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
@@ -125,6 +127,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
