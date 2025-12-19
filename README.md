@@ -48,6 +48,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0039-combination-sum) |
 | [0474-ones-and-zeroes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0474-ones-and-zeroes) |
+| [0594-longest-harmonious-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0605-can-place-flowers) |
 | [0851-loud-and-rich](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0851-loud-and-rich) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -110,6 +111,7 @@
 | [0001-two-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0409-longest-palindrome](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0409-longest-palindrome) |
+| [0594-longest-harmonious-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0594-longest-harmonious-subsequence) |
 | [1436-destination-city](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1436-destination-city) |
 | [3583-count-special-triplets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3606-coupon-code-validator) |
@@ -179,6 +181,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0594-longest-harmonious-subsequence) |
 | [3583-count-special-triplets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3583-count-special-triplets) |
 ## Combinatorics
 |  |
@@ -188,9 +191,11 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0594-longest-harmonious-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0594-longest-harmonious-subsequence) |
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0594-longest-harmonious-subsequence) |
 | [3606-coupon-code-validator](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3606-coupon-code-validator) |
 ## Backtracking
 |  |
