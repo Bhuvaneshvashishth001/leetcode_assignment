@@ -150,6 +150,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1138-alphabet-board-path](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1138-alphabet-board-path) |
 | [1436-destination-city](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1436-destination-city) |
+| [1573-number-of-ways-to-split-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1763-longest-nice-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1763-longest-nice-substring) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3582-generate-tag-for-video-caption) |
@@ -173,6 +174,7 @@
 | [0292-nim-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0292-nim-game) |
 | [0957-prison-cells-after-n-days](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0957-prison-cells-after-n-days) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1573-number-of-ways-to-split-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1925-count-square-sum-triples](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1925-count-square-sum-triples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
