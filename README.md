@@ -156,6 +156,7 @@
 | [1573-number-of-ways-to-split-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1763-longest-nice-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1763-longest-nice-substring) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2937-make-three-strings-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2937-make-three-strings-equal) |
 | [3582-generate-tag-for-video-caption](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3582-generate-tag-for-video-caption) |
 | [3606-coupon-code-validator](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3606-coupon-code-validator) |
 ## Greedy
