@@ -67,6 +67,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1436-destination-city](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1436-destination-city) |
 | [1631-path-with-minimum-effort](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1631-path-with-minimum-effort) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2607-make-k-subarray-sums-equal) |
@@ -140,6 +141,7 @@
 | [1436-destination-city](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1436-destination-city) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1657-determine-if-two-strings-are-close) |
 | [1763-longest-nice-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1763-longest-nice-substring) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [3583-count-special-triplets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3606-coupon-code-validator) |
@@ -195,6 +197,7 @@
 | [0957-prison-cells-after-n-days](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0957-prison-cells-after-n-days) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1573-number-of-ways-to-split-a-string) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1925-count-square-sum-triples](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1925-count-square-sum-triples) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2591-distribute-money-to-maximum-children) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2607-make-k-subarray-sums-equal) |
@@ -243,6 +246,7 @@
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0594-longest-harmonious-subsequence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1657-determine-if-two-strings-are-close) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3583-count-special-triplets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3583-count-special-triplets) |
 ## Combinatorics
 |  |
