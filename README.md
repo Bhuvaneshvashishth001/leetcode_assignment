@@ -72,6 +72,7 @@
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2540-minimum-common-value](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2540-minimum-common-value) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2607-make-k-subarray-sums-equal) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -229,6 +230,7 @@
 | [1631-path-with-minimum-effort](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1631-path-with-minimum-effort) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2540-minimum-common-value](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2540-minimum-common-value) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -305,4 +307,8 @@
 |  |
 | ------- |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2250-count-number-of-rectangles-containing-each-point) |
+## Ordered Set
+|  |
+| ------- |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 <!---LeetCode Topics End-->
