@@ -1,28 +1,22 @@
-import java.util.*;
-
 class Solution {
     public int minAbsoluteDifference(List<Integer> nums, int x) {
-        int n = nums.size();
+        int n  = nums.size();
         TreeSet<Integer> set = new TreeSet<>();
         int ans = Integer.MAX_VALUE;
-
-        for (int i = x; i < n; i++) {
-            // add valid index
-            set.add(nums.get(i - x));
-
-            int curr = nums.get(i);
-
-            Integer floor = set.floor(curr);
-            if (floor != null) {
-                ans = Math.min(ans, Math.abs(curr - floor));
+        for(int i=x;i<n;i++){
+            set.add(nums.get(i-x));
+            int num = nums.get(i);
+            Integer floor = set.floor(num);
+            if(floor != null){
+                ans = Math.min(ans,Math.abs(num-floor));
             }
-
-            Integer ceil = set.ceiling(curr);
-            if (ceil != null) {
-                ans = Math.min(ans, Math.abs(curr - ceil));
+            Integer ceil = set.ceiling(num);
+            if(ceil != null){
+                ans = Math.min(ans,Math.abs(num-ceil));
             }
-
-            if (ans == 0) return 0; // best possible
+            if(ans ==0){
+                break;
+            }
         }
         return ans;
     }
