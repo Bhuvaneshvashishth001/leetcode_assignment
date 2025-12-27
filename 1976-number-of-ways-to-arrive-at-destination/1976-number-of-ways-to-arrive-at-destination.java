@@ -1,52 +1,52 @@
 class Solution {
     class Pair{
-        int node;
-        long dist;
-        public Pair(int node,long dist){
-            this.node = node;
-            this.dist = dist;
+        int des;
+        long time;
+        public Pair(int des,long time){
+            this.des = des;
+            this.time = time;
         }
     }
     public int countPaths(int n, int[][] roads) {
         ArrayList<ArrayList<Pair>> adj = new ArrayList<>();
-       for(int i=0;i<n;i++){
+        for(int i=0;i<n;i++){
             adj.add(new ArrayList<>());
-       }
-        for(int edge[] : roads){
-            if(edge.length>0){
-                int u=edge[0];
-                int v=edge[1];
-                int w=edge[2];
-                adj.get(u).add(new Pair(v,w));
-                adj.get(v).add(new Pair(u,w));
-            }   
+        }     
+        for(int road[]:roads){
+            int u = road[0];
+            int v = road[1];
+            int time = road[2];
+            adj.get(u).add(new Pair(v,time));
+            adj.get(v).add(new Pair(u,time));
         }
-       long[] dist = new long[n];
-        PriorityQueue<Pair> queue = new PriorityQueue<>((a, b) -> Long.compare(a.dist, b.dist));
+        PriorityQueue<Pair> queue = new PriorityQueue<>((a,b)->Long.compare(a.time, b.time));
         int paths[] = new int[n];
-        Arrays.fill(dist, Long.MAX_VALUE);
-        dist[0] = 0;
-        paths[0] = 1;
-        queue.offer(new Pair(0,0));
-        int MOD = (int)1e9+7;
+        int ways[] = new int[n];
+        long dest[] = new long[n];
+        int MOD=1_000_000_007;
+        Arrays.fill(dest,Long.MAX_VALUE);
+        dest[0] = 0;
+        ways[0] = 1;
+        queue.add(new Pair(0,0));
         while(!queue.isEmpty()){
-            Pair P = queue.poll();
-            int node = P.node;
-            long dis = P.dist;
-            if (dis>dist[node]) continue;
-            for(Pair p:adj.get(node)){
-                int x =p.node;
-                long y = p.dist+dis;
-                if(dist[x]>y){
-                    dist[x]=y;
-                    paths[x]=paths[node];
-                    queue.offer(new Pair(x,y));
+            Pair p = queue.poll();
+            int node = p.des;
+            long time = p.time;
+            if(time>dest[node]){
+                continue;
+            }
+            for(Pair it:adj.get(node)){
+                long t = time+it.time;
+                if(dest[it.des]> t){
+                    dest[it.des] = t;
+                    ways[it.des] = ways[node];
+                    queue.add(new Pair(it.des,t));
                 }
-                else if(dist[x] ==y){
-                    paths[x]=(paths[x]+paths[node])%MOD;
+                else if(dest[it.des] == t){
+                    ways[it.des] =(ways[it.des]+ways[node])%MOD;
                 }
             }
         }
-        return paths[n-1];
+        return ways[n-1];
     }
 }
