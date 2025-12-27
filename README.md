@@ -6,6 +6,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0802-find-eventual-safe-states) |
@@ -19,6 +20,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0802-find-eventual-safe-states) |
@@ -37,6 +39,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0802-find-eventual-safe-states) |
@@ -238,6 +241,7 @@
 |  |
 | ------- |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0743-network-delay-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
@@ -301,6 +305,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Number Theory
 |  |
