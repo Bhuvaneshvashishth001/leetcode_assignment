@@ -49,6 +49,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0851-loud-and-rich) |
+| [0997-find-the-town-judge](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0997-find-the-town-judge) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1462-course-schedule-iv](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1462-course-schedule-iv) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -75,6 +76,7 @@
 | [0949-largest-time-for-given-digits](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0949-largest-time-for-given-digits) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-prison-cells-after-n-days](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0957-prison-cells-after-n-days) |
+| [0997-find-the-town-judge](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0997-find-the-town-judge) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-escape-a-large-maze](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1036-escape-a-large-maze) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -156,6 +158,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0720-longest-word-in-dictionary) |
 | [0833-find-and-replace-in-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0833-find-and-replace-in-string) |
 | [0957-prison-cells-after-n-days](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0957-prison-cells-after-n-days) |
+| [0997-find-the-town-judge](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0997-find-the-town-judge) |
 | [1036-escape-a-large-maze](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1036-escape-a-large-maze) |
 | [1138-alphabet-board-path](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1138-alphabet-board-path) |
 | [1436-destination-city](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1436-destination-city) |
