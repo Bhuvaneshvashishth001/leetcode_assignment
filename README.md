@@ -6,6 +6,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -33,6 +35,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1631-path-with-minimum-effort) |
 ## Graph
@@ -40,6 +43,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0787-cheapest-flights-within-k-stops) |
