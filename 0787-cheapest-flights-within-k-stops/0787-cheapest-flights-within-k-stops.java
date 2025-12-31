@@ -1,37 +1,46 @@
-import java.util.*;
-
 class Solution {
-    class Pair {
-        int node;
+    class Pair{
+        int des;
         int price;
         int stop;
-        public Pair(int node, int price, int stop) {
-            this.node = node;
+        public Pair(int des,int price,int stop){
+            this.des = des;
             this.price = price;
             this.stop = stop;
         }
     }
     public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
         ArrayList<ArrayList<Pair>> adj = new ArrayList<>();
-        for (int i = 0; i < n; i++) adj.add(new ArrayList<>());
-        for (int[] edge : flights) adj.get(edge[0]).add(new Pair(edge[1], edge[2], 0));
-        PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> a.price - b.price);
-        pq.add(new Pair(src, 0, 0));
-        int[][] dist = new int[n][k + 2]; 
-        for (int[] row : dist) Arrays.fill(row, Integer.MAX_VALUE);
+        for(int i=0;i<n;i++){
+            adj.add(new ArrayList<>());
+        }
+        for(int flight[] :flights){
+            int u = flight[0];
+            int v = flight[1];
+            int w = flight[2];
+            adj.get(u).add(new Pair(v,w,0));
+        }
+        PriorityQueue<Pair> queue = new PriorityQueue<>((a,b)->a.price-b.price);
+        int dist[][] = new int[n][k+2];
+        for(int arr[]:dist){
+            Arrays.fill(arr,Integer.MAX_VALUE);
+        }
         dist[src][0] = 0;
-        while (!pq.isEmpty()) {
-            Pair cur = pq.poll();
-            int node = cur.node;
-            int price = cur.price;
-            int stops = cur.stop;
-            if (node == dst) return price;
-            if (stops <= k) {
-                for (Pair nei : adj.get(node)) {
-                    int newPrice = price + nei.price;
-                    if (newPrice < dist[nei.node][stops + 1]) {
-                        dist[nei.node][stops + 1] = newPrice;
-                        pq.add(new Pair(nei.node, newPrice, stops + 1));
+        queue.add(new Pair(src,0,0));
+        while(!queue.isEmpty()){
+            Pair p = queue.poll();
+            int des = p.des;
+            int spend = p.price;
+            int stop = p.stop;
+            if(des == dst){
+                return spend;
+            }
+            if(stop<=k){
+                for(Pair it:adj.get(des)){
+                    int total = spend+it.price;
+                    if(total<dist[it.des][stop+1]){
+                        dist[it.des][stop+1] = total;
+                        queue.add(new Pair(it.des,total,stop+1));
                     }
                 }
             }
