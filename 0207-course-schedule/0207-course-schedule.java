@@ -16,7 +16,6 @@ class Solution {
         for(int i=0;i<V;i++){
             if(indegree[i] == 0){
                 queue.offer(i);
-                visited[i] = 1;
             }
         }
         while(!queue.isEmpty()){
