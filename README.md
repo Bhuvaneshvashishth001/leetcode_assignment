@@ -70,6 +70,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1462-course-schedule-iv](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1462-course-schedule-iv) |
 | [1514-path-with-maximum-probability](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1514-path-with-maximum-probability) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1791-find-center-of-star-graph](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1791-find-center-of-star-graph) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1971-find-if-path-exists-in-graph) |
@@ -164,6 +165,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1462-course-schedule-iv) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Bit Manipulation
@@ -248,6 +250,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0838-push-dominoes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0838-push-dominoes) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Math
@@ -300,6 +303,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1631-path-with-minimum-effort) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Prefix Sum
@@ -370,6 +374,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1514-path-with-maximum-probability) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3650-minimum-cost-path-with-edge-reversals) |
