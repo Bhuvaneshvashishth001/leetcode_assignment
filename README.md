@@ -68,6 +68,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1462-course-schedule-iv](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1462-course-schedule-iv) |
 | [1514-path-with-maximum-probability](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1514-path-with-maximum-probability) |
+| [1791-find-center-of-star-graph](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1791-find-center-of-star-graph) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1976-number-of-ways-to-arrive-at-destination) |
