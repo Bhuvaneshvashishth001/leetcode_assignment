@@ -9,6 +9,7 @@
 | [0210-course-schedule-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -29,6 +30,7 @@
 | [0542-01-matrix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -46,6 +48,7 @@
 | [0200-number-of-islands](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1971-find-if-path-exists-in-graph) |
@@ -88,6 +91,7 @@
 | [0605-can-place-flowers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0605-can-place-flowers) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0720-longest-word-in-dictionary](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0721-accounts-merge) |
 | [0833-find-and-replace-in-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0833-find-and-replace-in-string) |
 | [0851-loud-and-rich](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0851-loud-and-rich) |
 | [0949-largest-time-for-given-digits](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0949-largest-time-for-given-digits) |
@@ -175,6 +179,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0594-longest-harmonious-subsequence) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0720-longest-word-in-dictionary](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0721-accounts-merge) |
 | [0833-find-and-replace-in-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0833-find-and-replace-in-string) |
 | [0957-prison-cells-after-n-days](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0957-prison-cells-after-n-days) |
 | [0997-find-the-town-judge](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0997-find-the-town-judge) |
@@ -198,6 +203,7 @@
 | [0474-ones-and-zeroes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0583-delete-operation-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0721-accounts-merge) |
 | [0833-find-and-replace-in-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0833-find-and-replace-in-string) |
 | [0838-push-dominoes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0838-push-dominoes) |
 | [0925-long-pressed-name](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0925-long-pressed-name) |
@@ -320,6 +326,7 @@
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0594-longest-harmonious-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0721-accounts-merge) |
 | [0833-find-and-replace-in-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0833-find-and-replace-in-string) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1657-determine-if-two-strings-are-close) |
