@@ -85,6 +85,7 @@
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2374-node-with-highest-edge-score](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2374-node-with-highest-edge-score) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -210,6 +211,7 @@
 | [1763-longest-nice-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1763-longest-nice-substring) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2250-count-number-of-rectangles-containing-each-point) |
+| [2374-node-with-highest-edge-score](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2374-node-with-highest-edge-score) |
 | [2540-minimum-common-value](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2540-minimum-common-value) |
 | [3583-count-special-triplets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3606-coupon-code-validator) |
