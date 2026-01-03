@@ -90,6 +90,7 @@
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2374-node-with-highest-edge-score](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2374-node-with-highest-edge-score) |
+| [2924-find-champion-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2924-find-champion-ii) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3650-minimum-cost-path-with-edge-reversals) |
