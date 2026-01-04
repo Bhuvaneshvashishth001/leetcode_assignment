@@ -245,6 +245,7 @@
 | [1451-rearrange-words-in-a-sentence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1657-determine-if-two-strings-are-close) |
+| [1668-maximum-repeating-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1668-maximum-repeating-substring) |
 | [1763-longest-nice-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1763-longest-nice-substring) |
 | [2211-count-collisions-on-a-road](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2211-count-collisions-on-a-road) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -272,6 +273,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0838-push-dominoes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0838-push-dominoes) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1668-maximum-repeating-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1668-maximum-repeating-substring) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -426,4 +428,8 @@
 | ------- |
 | [0437-path-sum-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0543-diameter-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
