@@ -108,6 +108,7 @@
 | [0037-sudoku-solver](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0039-combination-sum) |
 | [0200-number-of-islands](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0221-maximal-square) |
 | [0474-ones-and-zeroes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0594-longest-harmonious-subsequence) |
@@ -270,6 +271,7 @@
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0091-decode-ways) |
+| [0221-maximal-square](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0221-maximal-square) |
 | [0474-ones-and-zeroes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0583-delete-operation-for-two-strings) |
@@ -309,6 +311,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0542-01-matrix) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1631-path-with-minimum-effort) |
