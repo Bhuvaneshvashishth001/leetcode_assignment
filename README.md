@@ -139,6 +139,7 @@
 | [2540-minimum-common-value](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2540-minimum-common-value) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2607-make-k-subarray-sums-equal) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -253,6 +254,7 @@
 | [2211-count-collisions-on-a-road](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2211-count-collisions-on-a-road) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2937-make-three-strings-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2937-make-three-strings-equal) |
 | [3582-generate-tag-for-video-caption](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3582-generate-tag-for-video-caption) |
 | [3606-coupon-code-validator](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3606-coupon-code-validator) |
@@ -267,6 +269,7 @@
 | [2591-distribute-money-to-maximum-children](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2591-distribute-money-to-maximum-children) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2607-make-k-subarray-sums-equal) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -283,6 +286,7 @@
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Math
 |  |
 | ------- |
