@@ -138,6 +138,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2187-minimum-time-to-complete-trips) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2467-most-profitable-path-in-a-tree) |
@@ -303,6 +304,7 @@
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Math
@@ -367,6 +369,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## Enumeration
