@@ -151,6 +151,7 @@
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3489-zero-array-transformation-iv](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3489-zero-array-transformation-iv) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3583-count-special-triplets) |
@@ -310,6 +311,7 @@
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3489-zero-array-transformation-iv](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3489-zero-array-transformation-iv) |
 ## Math
 |  |
 | ------- |
