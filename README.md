@@ -168,6 +168,7 @@
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3606-coupon-code-validator) |
+| [3719-longest-balanced-subarray-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3719-longest-balanced-subarray-i) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## Stack
 |  |
@@ -252,6 +253,7 @@
 | [2540-minimum-common-value](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2540-minimum-common-value) |
 | [3583-count-special-triplets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3606-coupon-code-validator) |
+| [3719-longest-balanced-subarray-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3719-longest-balanced-subarray-i) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## String
 |  |
@@ -410,6 +412,7 @@
 | ------- |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3719-longest-balanced-subarray-i) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## Enumeration
 |  |
@@ -465,6 +468,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0004-median-of-two-sorted-arrays) |
 | [1763-longest-nice-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1763-longest-nice-substring) |
+| [3719-longest-balanced-subarray-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3719-longest-balanced-subarray-i) |
 ## Trie
 |  |
 | ------- |
@@ -521,6 +525,7 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3719-longest-balanced-subarray-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3719-longest-balanced-subarray-i) |
 ## Memoization
 |  |
 | ------- |
