@@ -172,6 +172,7 @@
 | [3606-coupon-code-validator](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3606-coupon-code-validator) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3719-longest-balanced-subarray-i) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Stack
 |  |
 | ------- |
@@ -365,6 +366,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Brainteaser
 |  |
 | ------- |
@@ -504,6 +506,7 @@
 | ------- |
 | [2607-make-k-subarray-sums-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2607-make-k-subarray-sums-equal) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3377-digit-operations-to-make-two-integers-equal) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Binary Indexed Tree
 |  |
 | ------- |
