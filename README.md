@@ -167,6 +167,7 @@
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -359,6 +360,7 @@
 | [2708-maximum-strength-of-a-group](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2708-maximum-strength-of-a-group) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3489-zero-array-transformation-iv](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3489-zero-array-transformation-iv) |
 ## Math
@@ -562,6 +564,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0509-fibonacci-number) |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 ## Geometry
 |  |
 | ------- |
