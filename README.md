@@ -108,6 +108,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0039-combination-sum) |
@@ -206,6 +207,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0015-3sum) |
 | [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
 | [0455-assign-cookies](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0455-assign-cookies) |
 | [0838-push-dominoes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0838-push-dominoes) |
@@ -474,6 +476,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0015-3sum) |
 | [0435-non-overlapping-intervals](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0594-longest-harmonious-subsequence) |
