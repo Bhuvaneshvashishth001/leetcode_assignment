@@ -1,30 +1,29 @@
 class Solution {
-    public int minValidStrings(String[] words, String target) {
-        int left = 0;
-        int right = 1;
-        int n = target.length();
-        int[] dp = new int[n + 1];
-
-        while(right <= n){
-            if(left == right){
-                return -1;
-            }
-            if(isValidPrefix(words, target.substring(left, right))){
-                dp[right] = dp[left] + 1;
-                right++;
-            }else{
-                left++;
-            }
-        }
-        return dp[n];
-    }
-
-    public boolean isValidPrefix(String words[], String prefix){
-        for(String word : words){
-            if(word.startsWith(prefix)){
+    public boolean isValid(String words[],String pre){
+        for(String word:words){
+            if(word.startsWith(pre)){
                 return true;
             }
         }
         return false;
+    }
+    public int minValidStrings(String[] words, String target) {
+        int n = target.length();
+        int count[] = new int[n+1];
+        int i=0;
+        int j=1;
+        while(j<=n){
+            if(i == j){
+                return -1;
+            }
+            else if(isValid(words,target.substring(i,j))){
+                count[j] = count[i]+1;
+                j++;
+            }
+            else{
+                i++;
+            }
+        }
+        return count[n];
     }
 }
