@@ -184,6 +184,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3719-longest-balanced-subarray-i) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Stack
 |  |
 | ------- |
@@ -309,6 +310,7 @@
 | [2937-make-three-strings-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2937-make-three-strings-equal) |
 | [3582-generate-tag-for-video-caption](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3582-generate-tag-for-video-caption) |
 | [3606-coupon-code-validator](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3606-coupon-code-validator) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Greedy
 |  |
 | ------- |
@@ -329,6 +331,7 @@
 | [2708-maximum-strength-of-a-group](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2708-maximum-strength-of-a-group) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -439,6 +442,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Prefix Sum
 |  |
 | ------- |
