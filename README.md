@@ -152,6 +152,7 @@
 | [1488-avoid-flood-in-the-city](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1488-avoid-flood-in-the-city) |
 | [1514-path-with-maximum-probability](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1631-path-with-minimum-effort) |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -327,6 +328,7 @@
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1488-avoid-flood-in-the-city](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1488-avoid-flood-in-the-city) |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2007-find-original-array-from-doubled-array) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
