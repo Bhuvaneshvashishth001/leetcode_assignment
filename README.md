@@ -185,6 +185,7 @@
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3634-minimum-removals-to-balance-array) |
 | [3649-number-of-perfect-pairs](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3649-number-of-perfect-pairs) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3719-longest-balanced-subarray-i) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
@@ -490,6 +491,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0992-subarrays-with-k-different-integers) |
 | [1763-longest-nice-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1763-longest-nice-substring) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sorting
 |  |
 | ------- |
@@ -509,6 +511,7 @@
 | [2607-make-k-subarray-sums-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2607-make-k-subarray-sums-equal) |
 | [2708-maximum-strength-of-a-group](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2708-maximum-strength-of-a-group) |
 | [3606-coupon-code-validator](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3634-minimum-removals-to-balance-array) |
 | [3649-number-of-perfect-pairs](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3649-number-of-perfect-pairs) |
 ## Backtracking
 |  |
