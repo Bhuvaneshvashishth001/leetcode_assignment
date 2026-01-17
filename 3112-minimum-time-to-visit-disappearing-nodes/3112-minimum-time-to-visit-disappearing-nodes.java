@@ -1,13 +1,13 @@
 class Solution {
     class Pair{
         int node;
-        int weight;
-        public Pair(int node,int weight){
+        int time;
+        public Pair(int node,int time){
             this.node = node;
-            this.weight = weight;
+            this.time = time;
         }
     }
-    public int[] minimumTime(int n, int[][] edges, int[]vanish) {
+    public int[] minimumTime(int n, int[][] edges, int[] disappear) {
         ArrayList<ArrayList<Pair>> adj = new ArrayList<>();
         for(int i=0;i<n;i++){
             adj.add(new ArrayList<>());
@@ -15,36 +15,36 @@ class Solution {
         for(int edge[]:edges){
             int u = edge[0];
             int v = edge[1];
-            int w = edge[2];
-            adj.get(u).add(new Pair(v,w));
-            adj.get(v).add(new Pair(u,w));
+            int t = edge[2];
+            adj.get(u).add(new Pair(v,t));
+            adj.get(v).add(new Pair(u,t));
         }
-        int dist[] =new int[n];
-        Arrays.fill(dist,Integer.MAX_VALUE);
-        PriorityQueue<Pair> queue = new PriorityQueue<>((a,b)->a.weight-b.weight);
-        dist[0] = 0;
+        int time[] = new int[n];
+        Arrays.fill(time,Integer.MAX_VALUE);
+        PriorityQueue<Pair> queue = new PriorityQueue<>((a,b)->a.time-b.time);
+        time[0] = 0;
         queue.add(new Pair(0,0));
         while(!queue.isEmpty()){
             Pair p = queue.poll();
-            int v = p.node;
-            int w = p.weight;
-            if(w>dist[v]){
+            int node = p.node;
+            int hr = p.time;
+            if(time[node]<hr){
                 continue;
             }
-            for(Pair it:adj.get(v)){
-                if(dist[it.node]>w+it.weight){
-                    if(w+it.weight<vanish[it.node]){
-                        dist[it.node] = w+it.weight;
-                        queue.add(new Pair(it.node,dist[it.node]));
+            for(Pair it:adj.get(node)){
+                if(time[it.node]> hr+it.time){
+                    if(hr+it.time < disappear[it.node]){
+                        time[it.node] = hr+it.time;
+                        queue.add(new Pair(it.node,hr+it.time));
                     }
                 }
             }
         }
         for(int i=0;i<n;i++){
-            if(dist[i] == Integer.MAX_VALUE){
-                dist[i] =-1;
+            if(time[i] == Integer.MAX_VALUE){
+                time[i] =-1;
             }
         }
-        return dist;
+        return time;
     }
 }
