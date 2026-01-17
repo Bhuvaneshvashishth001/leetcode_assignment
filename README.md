@@ -175,6 +175,7 @@
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -488,6 +489,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0594-longest-harmonious-subsequence) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0992-subarrays-with-k-different-integers) |
 | [1763-longest-nice-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1763-longest-nice-substring) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 ## Sorting
 |  |
 | ------- |
