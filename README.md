@@ -242,6 +242,7 @@
 | ------- |
 | [0957-prison-cells-after-n-days](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0957-prison-cells-after-n-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1494-parallel-courses-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1494-parallel-courses-ii) |
 | [1763-longest-nice-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1763-longest-nice-substring) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2708-maximum-strength-of-a-group](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2708-maximum-strength-of-a-group) |
@@ -366,6 +367,7 @@
 | [1191-k-concatenation-maximum-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1191-k-concatenation-maximum-sum) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1494-parallel-courses-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1494-parallel-courses-ii) |
 | [1668-maximum-repeating-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1668-maximum-repeating-substring) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -617,5 +619,10 @@
 ## Graph Theory
 |  |
 | ------- |
+| [1494-parallel-courses-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1494-parallel-courses-ii) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+## Bitmask DP
+|  |
+| ------- |
+| [1494-parallel-courses-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1494-parallel-courses-ii) |
 <!---LeetCode Topics End-->
