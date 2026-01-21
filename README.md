@@ -203,6 +203,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2211-count-collisions-on-a-road](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2211-count-collisions-on-a-road) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -321,6 +322,7 @@
 | [1763-longest-nice-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1763-longest-nice-substring) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2211-count-collisions-on-a-road](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2211-count-collisions-on-a-road) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -559,6 +561,7 @@
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2211-count-collisions-on-a-road) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3582-generate-tag-for-video-caption](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3582-generate-tag-for-video-caption) |
 ## Shortest Path
 |  |
