@@ -186,6 +186,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3583-count-special-triplets) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3606-coupon-code-validator](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3634-minimum-removals-to-balance-array) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3645-maximum-total-from-optimal-activation-order) |
@@ -419,6 +420,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3649-number-of-perfect-pairs](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3649-number-of-perfect-pairs) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Brainteaser
@@ -512,6 +514,7 @@
 | [1763-longest-nice-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1763-longest-nice-substring) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sorting
 |  |
@@ -581,6 +584,7 @@
 | ------- |
 | [2607-make-k-subarray-sums-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2607-make-k-subarray-sums-equal) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3377-digit-operations-to-make-two-integers-equal) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Binary Indexed Tree
 |  |
@@ -648,4 +652,12 @@
 |  |
 | ------- |
 | [1494-parallel-courses-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1494-parallel-courses-ii) |
+## Queue
+|  |
+| ------- |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3589-count-prime-gap-balanced-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3589-count-prime-gap-balanced-subarrays) |
 <!---LeetCode Topics End-->
