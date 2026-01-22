@@ -156,6 +156,7 @@
 | [1631-path-with-minimum-effort](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1631-path-with-minimum-effort) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1856-maximum-subarray-min-product](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1856-maximum-subarray-min-product) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
@@ -203,6 +204,7 @@
 | [0155-min-stack](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0155-min-stack) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0907-sum-of-subarray-minimums) |
 | [1544-make-the-string-great](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1544-make-the-string-great) |
+| [1856-maximum-subarray-min-product](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1856-maximum-subarray-min-product) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2211-count-collisions-on-a-road](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2211-count-collisions-on-a-road) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -211,6 +213,7 @@
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0907-sum-of-subarray-minimums) |
+| [1856-maximum-subarray-min-product](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1856-maximum-subarray-min-product) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Design
@@ -484,6 +487,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1856-maximum-subarray-min-product](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1856-maximum-subarray-min-product) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3719-longest-balanced-subarray-i) |
