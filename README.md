@@ -170,6 +170,7 @@
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2540-minimum-common-value](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2540-minimum-common-value) |
+| [2555-maximize-win-from-two-segments](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2555-maximize-win-from-two-segments) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2607-make-k-subarray-sums-equal) |
 | [2708-maximum-strength-of-a-group](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2708-maximum-strength-of-a-group) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
@@ -463,6 +464,7 @@
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2540-minimum-common-value) |
+| [2555-maximize-win-from-two-segments](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2555-maximize-win-from-two-segments) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
@@ -520,6 +522,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0594-longest-harmonious-subsequence) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0992-subarrays-with-k-different-integers) |
 | [1763-longest-nice-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1763-longest-nice-substring) |
+| [2555-maximize-win-from-two-segments](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2555-maximize-win-from-two-segments) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3589-count-prime-gap-balanced-subarrays) |
