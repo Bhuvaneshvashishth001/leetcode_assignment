@@ -125,6 +125,7 @@
 | [0474-ones-and-zeroes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0575-distribute-candies) |
@@ -206,6 +207,7 @@
 | [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0907-sum-of-subarray-minimums) |
 | [1544-make-the-string-great](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1544-make-the-string-great) |
 | [1856-maximum-subarray-min-product](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1856-maximum-subarray-min-product) |
@@ -219,6 +221,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0907-sum-of-subarray-minimums) |
 | [1856-maximum-subarray-min-product](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1856-maximum-subarray-min-product) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1944-number-of-visible-people-in-a-queue) |
