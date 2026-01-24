@@ -159,6 +159,7 @@
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1856-maximum-subarray-min-product](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1856-maximum-subarray-min-product) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
@@ -247,6 +248,7 @@
 | [0455-assign-cookies](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0455-assign-cookies) |
 | [0838-push-dominoes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0838-push-dominoes) |
 | [0925-long-pressed-name](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0925-long-pressed-name) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2540-minimum-common-value](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2540-minimum-common-value) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3649-number-of-perfect-pairs](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3649-number-of-perfect-pairs) |
@@ -370,6 +372,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1488-avoid-flood-in-the-city](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1488-avoid-flood-in-the-city) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2007-find-original-array-from-doubled-array) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
@@ -563,6 +566,7 @@
 | [1311-get-watched-videos-by-your-friends](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1657-determine-if-two-strings-are-close) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2007-find-original-array-from-doubled-array) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2333-minimum-sum-of-squared-difference) |
