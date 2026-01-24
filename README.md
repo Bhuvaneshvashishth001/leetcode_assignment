@@ -124,6 +124,7 @@
 | [0455-assign-cookies](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0575-distribute-candies) |
@@ -204,6 +205,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0907-sum-of-subarray-minimums) |
 | [1544-make-the-string-great](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1544-make-the-string-great) |
 | [1856-maximum-subarray-min-product](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1856-maximum-subarray-min-product) |
@@ -216,6 +218,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0907-sum-of-subarray-minimums) |
 | [1856-maximum-subarray-min-product](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1856-maximum-subarray-min-product) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -280,6 +283,7 @@
 | [0037-sudoku-solver](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0133-clone-graph) |
 | [0409-longest-palindrome](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0594-longest-harmonious-subsequence) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0659-split-array-into-consecutive-subsequences) |
