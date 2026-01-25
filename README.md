@@ -168,6 +168,7 @@
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2187-minimum-time-to-complete-trips) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -377,6 +378,7 @@
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2591-distribute-money-to-maximum-children) |
@@ -443,6 +445,7 @@
 | [1573-number-of-ways-to-split-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1925-count-square-sum-triples](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1925-count-square-sum-triples) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2591-distribute-money-to-maximum-children) |
@@ -568,6 +571,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1657-determine-if-two-strings-are-close) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2007-find-original-array-from-doubled-array) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2607-make-k-subarray-sums-equal) |
