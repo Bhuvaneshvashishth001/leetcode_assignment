@@ -705,6 +705,7 @@
 | ------- |
 | [1494-parallel-courses-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1494-parallel-courses-ii) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Bitmask DP
 |  |
 | ------- |
