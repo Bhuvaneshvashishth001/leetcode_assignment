@@ -4,25 +4,21 @@ class Solution {
         int pse[] = new int[n];
         int nse[] = new int[n];
         Stack<Integer> stack = new Stack<>();
-        int j=0;
-        int mod = 1_000_000_007;
-        while(j<n){
-            while(!stack.isEmpty() && arr[stack.peek()] > arr[j]){
+        for(int i=0;i<n;i++){
+            while(!stack.isEmpty() && arr[stack.peek()]>arr[i]){
                 stack.pop();
             }
             if(stack.isEmpty()){
-                pse[j] = -1;
+                pse[i] =-1;
             }
             else{
-                pse[j] = stack.peek();
+                pse[i] = stack.peek();
             }
-            stack.push(j);
-            j++;
+            stack.push(i);
         }
         stack.clear();
-        int i=n-1;
-        while(i>=0){
-            while(!stack.isEmpty() && arr[stack.peek()] >= arr[i]){
+        for(int i=n-1;i>=0;i--){
+            while(!stack.isEmpty() && arr[stack.peek()]>=arr[i]){
                 stack.pop();
             }
             if(stack.isEmpty()){
@@ -32,13 +28,13 @@ class Solution {
                 nse[i] = stack.peek();
             }
             stack.push(i);
-            i--;
         }
         long result = 0;
-        for(int k=0;k<n;k++){
-            long l = k-pse[k];
-            long r = nse[k] -k;
-            result = (result+arr[k]*l*r)%mod;
+        int mod = 1_000_000_007;
+        for(int i=0;i<n;i++){
+            long l = i-pse[i];
+            long r =nse[i]-i;
+            result= (result+arr[i]*l*r)%mod;
         }
         return (int)result;
     }
