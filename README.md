@@ -229,6 +229,7 @@
 | [2211-count-collisions-on-a-road](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2211-count-collisions-on-a-road) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
@@ -253,6 +254,7 @@
 | [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -470,6 +472,7 @@
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2591-distribute-money-to-maximum-children) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2607-make-k-subarray-sums-equal) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
