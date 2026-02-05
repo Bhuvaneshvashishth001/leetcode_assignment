@@ -113,6 +113,7 @@
 | [0035-search-insert-position](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0039-combination-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -214,6 +215,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0155-min-stack) |
 | [0456-132-pattern](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0456-132-pattern) |
@@ -231,6 +233,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0503-next-greater-element-ii) |
