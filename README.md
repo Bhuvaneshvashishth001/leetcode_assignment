@@ -124,6 +124,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0496-next-greater-element-i) |
@@ -215,6 +216,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0155-min-stack) |
+| [0456-132-pattern](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0907-sum-of-subarray-minimums) |
@@ -229,6 +231,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0907-sum-of-subarray-minimums) |
@@ -498,6 +501,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0300-longest-increasing-subsequence) |
+| [0456-132-pattern](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0456-132-pattern) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1488-avoid-flood-in-the-city](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1488-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1631-path-with-minimum-effort) |
@@ -658,6 +662,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0456-132-pattern) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 ## Tree
 |  |
