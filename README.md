@@ -257,6 +257,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -278,6 +279,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0509-fibonacci-number) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
