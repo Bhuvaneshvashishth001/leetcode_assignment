@@ -259,6 +259,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -268,6 +269,7 @@
 | [0011-container-with-most-water](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0015-3sum) |
 | [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0455-assign-cookies) |
 | [0838-push-dominoes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0838-push-dominoes) |
 | [0925-long-pressed-name](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0925-long-pressed-name) |
@@ -313,6 +315,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0133-clone-graph) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0160-intersection-of-two-linked-lists) |
 | [0409-longest-palindrome](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0575-distribute-candies) |
