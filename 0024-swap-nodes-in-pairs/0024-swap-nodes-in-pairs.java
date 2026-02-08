@@ -22,7 +22,7 @@ class Solution {
             ListNode future = second.next;
             prev.next = second;
             second.next = first;
-            prev=first;
+            prev=second.next;
             first.next=future;
             first=future;
         }
