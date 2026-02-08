@@ -263,6 +263,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0160-intersection-of-two-linked-lists) |
+| [0328-odd-even-linked-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2816-double-a-number-represented-as-a-linked-list) |
