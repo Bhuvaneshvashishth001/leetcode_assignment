@@ -161,6 +161,7 @@
 | [1036-escape-a-large-maze](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1036-escape-a-large-maze) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1110-delete-nodes-and-return-forest) |
+| [1140-stone-game-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1140-stone-game-ii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1191-k-concatenation-maximum-sum) |
 | [1200-minimum-absolute-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1200-minimum-absolute-difference) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -483,6 +484,7 @@
 | [0877-stone-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0918-maximum-sum-circular-subarray) |
+| [1140-stone-game-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1143-longest-common-subsequence) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1191-k-concatenation-maximum-sum) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -518,6 +520,7 @@
 | [0509-fibonacci-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0877-stone-game) |
 | [0957-prison-cells-after-n-days](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0957-prison-cells-after-n-days) |
+| [1140-stone-game-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1140-stone-game-ii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -546,6 +549,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1140-stone-game-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -603,6 +607,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1140-stone-game-ii) |
 | [1856-maximum-subarray-min-product](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1856-maximum-subarray-min-product) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3432-count-partitions-with-even-sum-difference) |
