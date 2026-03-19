@@ -400,6 +400,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1138-alphabet-board-path](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1138-alphabet-board-path) |
 | [1143-longest-common-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1436-destination-city](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1436-destination-city) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1451-rearrange-words-in-a-sentence) |
@@ -488,6 +489,7 @@
 | [1143-longest-common-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1143-longest-common-subsequence) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1191-k-concatenation-maximum-sum) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1395-count-number-of-teams](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1395-count-number-of-teams) |
 | [1494-parallel-courses-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1494-parallel-courses-ii) |
