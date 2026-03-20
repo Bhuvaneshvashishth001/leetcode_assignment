@@ -386,6 +386,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0072-edit-distance](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0131-palindrome-partitioning) |
@@ -461,6 +462,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0115-distinct-subsequences) |
