@@ -1,36 +1,21 @@
 class Solution {
-    int dp[][];
-    public int helper(int i, int j,String s,String t){
-        if(j == t.length()){
-            return 1;
-        } 
-        if(i == s.length()){
-            return 0;
-        }    
-        if(dp[i][j] != -1){
-            return dp[i][j];
-        }
-        int ans = 0;
-        if(s.charAt(i) == t.charAt(j)){
-            int pick = helper(i+1,j+1,s,t);
-            int notPick = helper(i+1,j,s,t);
-            ans = pick+notPick;
-        }
-        else{
-            ans =  helper(i+1,j,s,t);
-        }
-        return dp[i][j] = ans;
-    }
     public int numDistinct(String s, String t) {
         int n = s.length();
         int m = t.length();
-        if(m>n){
-            return 0;
+        int dp[][] = new int[n+1][m+1];
+        for(int i=0;i<=n;i++){
+            dp[i][0] =1;
         }
-        dp = new int[n][m];
-        for(int row[] : dp){
-            Arrays.fill(row,-1);
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=m;j++){
+                if(s.charAt(i-1) == t.charAt(j-1)){
+                    dp[i][j] = dp[i-1][j-1]+dp[i-1][j];
+                }
+                else{
+                    dp[i][j] = dp[i-1][j];
+                }
+            }
         }
-        return helper(0,0,s,t);
+        return dp[n][m];
     }
 }
