@@ -162,6 +162,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1019-next-greater-node-in-linked-list) |
 | [1036-escape-a-large-maze](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1036-escape-a-large-maze) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1043-partition-array-for-maximum-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1110-delete-nodes-and-return-forest) |
 | [1140-stone-game-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1140-stone-game-ii) |
@@ -497,6 +498,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0918-maximum-sum-circular-subarray) |
 | [0956-tallest-billboard](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0956-tallest-billboard) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1043-partition-array-for-maximum-sum) |
 | [1092-shortest-common-supersequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1143-longest-common-subsequence) |
