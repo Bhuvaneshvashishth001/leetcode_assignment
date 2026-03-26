@@ -127,6 +127,7 @@
 | [0213-house-robber-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0368-largest-divisible-subset) |
@@ -271,6 +272,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0303-range-sum-query-immutable) |
 ## Linked List
 |  |
 | ------- |
@@ -626,6 +628,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1140-stone-game-ii) |
 | [1856-maximum-subarray-min-product](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1856-maximum-subarray-min-product) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2100-find-good-days-to-rob-the-bank) |
