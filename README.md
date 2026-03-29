@@ -130,6 +130,7 @@
 | [0221-maximal-square](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0368-largest-divisible-subset) |
@@ -275,6 +276,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0307-range-sum-query-mutable) |
 ## Linked List
 |  |
 | ------- |
@@ -725,6 +727,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0053-maximum-subarray) |
+| [0307-range-sum-query-mutable](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0307-range-sum-query-mutable) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0918-maximum-sum-circular-subarray) |
 | [1763-longest-nice-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1763-longest-nice-substring) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3719-longest-balanced-subarray-i) |
@@ -764,6 +767,7 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1395-count-number-of-teams](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1395-count-number-of-teams) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2250-count-number-of-rectangles-containing-each-point) |
@@ -797,6 +801,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1395-count-number-of-teams](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1395-count-number-of-teams) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
