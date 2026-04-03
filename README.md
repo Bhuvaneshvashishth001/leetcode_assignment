@@ -190,6 +190,7 @@
 | [1856-maximum-subarray-min-product](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1856-maximum-subarray-min-product) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
@@ -535,6 +536,7 @@
 | [1668-maximum-repeating-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1668-maximum-repeating-substring) |
 | [1696-jump-game-vi](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1696-jump-game-vi) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
