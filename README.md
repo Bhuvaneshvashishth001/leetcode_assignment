@@ -150,6 +150,7 @@
 | [0621-task-scheduler](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0682-baseball-game) |
 | [0720-longest-word-in-dictionary](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0721-accounts-merge) |
 | [0833-find-and-replace-in-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0833-find-and-replace-in-string) |
@@ -251,6 +252,7 @@
 | [0456-132-pattern](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0682-baseball-game) |
 | [0853-car-fleet](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1019-next-greater-node-in-linked-list) |
@@ -766,6 +768,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0682-baseball-game) |
 | [2211-count-collisions-on-a-road](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2211-count-collisions-on-a-road) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3477-fruits-into-baskets-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3477-fruits-into-baskets-ii) |
