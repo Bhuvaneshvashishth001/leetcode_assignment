@@ -223,6 +223,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3477-fruits-into-baskets-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3477-fruits-into-baskets-ii) |
@@ -554,6 +555,7 @@
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3489-zero-array-transformation-iv](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3489-zero-array-transformation-iv) |
 ## Math
 |  |
@@ -611,6 +613,7 @@
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
