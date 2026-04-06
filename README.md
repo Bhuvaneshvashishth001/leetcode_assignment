@@ -123,6 +123,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0200-number-of-islands) |
@@ -370,6 +371,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0160-intersection-of-two-linked-lists) |
 | [0409-longest-palindrome](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0409-longest-palindrome) |
@@ -416,6 +418,7 @@
 | [0091-decode-ways](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0139-word-break) |
 | [0409-longest-palindrome](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0409-longest-palindrome) |
 | [0474-ones-and-zeroes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0516-longest-palindromic-subsequence) |
@@ -501,6 +504,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0213-house-robber-ii) |
@@ -767,6 +771,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0139-word-break) |
 | [0720-longest-word-in-dictionary](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0720-longest-word-in-dictionary) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Simulation
@@ -852,6 +857,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0509-fibonacci-number) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 ## Geometry
