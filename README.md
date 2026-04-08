@@ -154,6 +154,7 @@
 | [0682-baseball-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0682-baseball-game) |
 | [0720-longest-word-in-dictionary](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0721-accounts-merge) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0833-find-and-replace-in-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0833-find-and-replace-in-string) |
 | [0851-loud-and-rich](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0851-loud-and-rich) |
 | [0853-car-fleet](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0853-car-fleet) |
@@ -323,6 +324,7 @@
 | [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0455-assign-cookies) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0838-push-dominoes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0838-push-dominoes) |
 | [0925-long-pressed-name](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0925-long-pressed-name) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -631,6 +633,7 @@
 | [0035-search-insert-position](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0456-132-pattern) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1488-avoid-flood-in-the-city](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1488-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1631-path-with-minimum-effort) |
@@ -653,6 +656,7 @@
 | [0621-task-scheduler](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0743-network-delay-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0743-network-delay-time) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1488-avoid-flood-in-the-city](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1488-avoid-flood-in-the-city) |
 | [1514-path-with-maximum-probability](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1514-path-with-maximum-probability) |
@@ -728,6 +732,7 @@
 | [0621-task-scheduler](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0721-accounts-merge) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0833-find-and-replace-in-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0833-find-and-replace-in-string) |
 | [0853-car-fleet](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0853-car-fleet) |
 | [1200-minimum-absolute-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1200-minimum-absolute-difference) |
