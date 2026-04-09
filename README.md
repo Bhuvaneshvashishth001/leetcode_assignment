@@ -13,6 +13,7 @@
 | [0437-path-sum-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0743-network-delay-time) |
@@ -848,6 +849,7 @@
 | [0337-house-robber-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0572-subtree-of-another-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1110-delete-nodes-and-return-forest) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Binary Tree
@@ -857,10 +859,12 @@
 | [0337-house-robber-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0572-subtree-of-another-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1110-delete-nodes-and-return-forest) |
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0572-subtree-of-another-tree) |
 | [1668-maximum-repeating-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1668-maximum-repeating-substring) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Segment Tree
@@ -897,6 +901,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0572-subtree-of-another-tree) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Graph Theory
 |  |
