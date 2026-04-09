@@ -158,6 +158,7 @@
 | [0833-find-and-replace-in-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0833-find-and-replace-in-string) |
 | [0851-loud-and-rich](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0851-loud-and-rich) |
 | [0853-car-fleet](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0853-car-fleet) |
+| [0874-walking-robot-simulation](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0907-sum-of-subarray-minimums) |
@@ -388,6 +389,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0721-accounts-merge) |
 | [0833-find-and-replace-in-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0833-find-and-replace-in-string) |
+| [0874-walking-robot-simulation](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0904-fruit-into-baskets) |
 | [0957-prison-cells-after-n-days](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0957-prison-cells-after-n-days) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0992-subarrays-with-k-different-integers) |
@@ -796,6 +798,7 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0682-baseball-game) |
+| [0874-walking-robot-simulation](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0874-walking-robot-simulation) |
 | [2211-count-collisions-on-a-road](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2211-count-collisions-on-a-road) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3477-fruits-into-baskets-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3477-fruits-into-baskets-ii) |
