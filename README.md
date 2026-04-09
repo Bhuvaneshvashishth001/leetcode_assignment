@@ -767,6 +767,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0039-combination-sum) |
+| [0052-n-queens-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0494-target-sum) |
