@@ -242,6 +242,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3643-flip-square-submatrix-vertically) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3649-number-of-perfect-pairs](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3649-number-of-perfect-pairs) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3719-longest-balanced-subarray-i) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -781,6 +782,7 @@
 | [0307-range-sum-query-mutable](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0307-range-sum-query-mutable) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0918-maximum-sum-circular-subarray) |
 | [1763-longest-nice-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1763-longest-nice-substring) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3719-longest-balanced-subarray-i) |
 ## Trie
 |  |
@@ -798,6 +800,7 @@
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3477-fruits-into-baskets-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3477-fruits-into-baskets-ii) |
 | [3582-generate-tag-for-video-caption](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3582-generate-tag-for-video-caption) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Shortest Path
 |  |
 | ------- |
