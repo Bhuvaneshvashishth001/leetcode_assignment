@@ -246,6 +246,7 @@
 | [3649-number-of-perfect-pairs](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3649-number-of-perfect-pairs) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3781-maximum-score-after-binary-swaps) |
@@ -416,6 +417,7 @@
 | [3583-count-special-triplets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3606-coupon-code-validator) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## String
 |  |
