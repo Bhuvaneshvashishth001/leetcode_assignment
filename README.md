@@ -193,6 +193,7 @@
 | [1696-jump-game-vi](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1696-jump-game-vi) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1856-maximum-subarray-min-product](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1856-maximum-subarray-min-product) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
