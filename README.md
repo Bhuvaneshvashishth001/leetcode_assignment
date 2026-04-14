@@ -340,6 +340,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3643-flip-square-submatrix-vertically) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3649-number-of-perfect-pairs](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3649-number-of-perfect-pairs) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Recursion
 |  |
 | ------- |
@@ -373,6 +374,7 @@
 | [2708-maximum-strength-of-a-group](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2708-maximum-strength-of-a-group) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3133-minimum-array-end](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3133-minimum-array-end) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## Hash Table
 |  |
@@ -474,6 +476,7 @@
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3582-generate-tag-for-video-caption](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3582-generate-tag-for-video-caption) |
 | [3606-coupon-code-validator](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3606-coupon-code-validator) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Greedy
 |  |
@@ -610,6 +613,7 @@
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3649-number-of-perfect-pairs](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3649-number-of-perfect-pairs) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Brainteaser
 |  |
