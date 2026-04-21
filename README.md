@@ -204,6 +204,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2007-find-original-array-from-doubled-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2187-minimum-time-to-complete-trips) |
@@ -501,6 +502,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2007-find-original-array-from-doubled-array) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2195-append-k-integers-with-minimal-sum) |
