@@ -117,6 +117,7 @@
 | [0035-search-insert-position](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0084-largest-rectangle-in-histogram) |
@@ -593,6 +594,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0168-excel-sheet-column-title) |
 | [0223-rectangle-area](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0223-rectangle-area) |
@@ -638,6 +640,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0200-number-of-islands) |
