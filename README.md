@@ -951,4 +951,8 @@
 | [1696-jump-game-vi](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1696-jump-game-vi) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3589-count-prime-gap-balanced-subarrays) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
