@@ -420,6 +420,7 @@
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2540-minimum-common-value](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2540-minimum-common-value) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3583-count-special-triplets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3606-coupon-code-validator) |
@@ -479,6 +480,7 @@
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2937-make-three-strings-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2937-make-three-strings-equal) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3582-generate-tag-for-video-caption](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3582-generate-tag-for-video-caption) |
 | [3606-coupon-code-validator](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3606-coupon-code-validator) |
