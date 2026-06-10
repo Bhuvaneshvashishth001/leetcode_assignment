@@ -1,4 +1,5 @@
 # Write your MySQL query statement below
+# Write your MySQL query statement below
 SELECT name
 FROM Employee 
 JOIN (SELECT managerId FROM Employee
