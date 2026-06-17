@@ -982,5 +982,6 @@
 | [1729-find-followers-count](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1934-confirmation-rate) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
