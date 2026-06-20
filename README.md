@@ -215,6 +215,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2498-frog-jump-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2498-frog-jump-ii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2540-minimum-common-value) |
 | [2555-maximize-win-from-two-segments](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2555-maximize-win-from-two-segments) |
@@ -512,6 +513,7 @@
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2498-frog-jump-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2498-frog-jump-ii) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2591-distribute-money-to-maximum-children) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2607-make-k-subarray-sums-equal) |
 | [2708-maximum-strength-of-a-group](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2708-maximum-strength-of-a-group) |
@@ -673,6 +675,7 @@
 | [2187-minimum-time-to-complete-trips](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2187-minimum-time-to-complete-trips) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2498-frog-jump-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2498-frog-jump-ii) |
 | [2540-minimum-common-value](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2540-minimum-common-value) |
 | [2555-maximize-win-from-two-segments](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2555-maximize-win-from-two-segments) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
