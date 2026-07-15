@@ -166,6 +166,7 @@
 | [0904-fruit-into-baskets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0918-maximum-sum-circular-subarray) |
+| [0930-binary-subarrays-with-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0930-binary-subarrays-with-sum) |
 | [0949-largest-time-for-given-digits](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0949-largest-time-for-given-digits) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0956-tallest-billboard](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0956-tallest-billboard) |
@@ -405,6 +406,7 @@
 | [0833-find-and-replace-in-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0833-find-and-replace-in-string) |
 | [0874-walking-robot-simulation](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0930-binary-subarrays-with-sum) |
 | [0957-prison-cells-after-n-days](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0957-prison-cells-after-n-days) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0997-find-the-town-judge) |
@@ -724,6 +726,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0303-range-sum-query-immutable) |
+| [0930-binary-subarrays-with-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1140-stone-game-ii) |
 | [1856-maximum-subarray-min-product](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1856-maximum-subarray-min-product) |
@@ -763,6 +766,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1358-number-of-substrings-containing-all-three-characters) |
