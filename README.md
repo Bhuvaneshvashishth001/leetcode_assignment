@@ -184,6 +184,7 @@
 | [1191-k-concatenation-maximum-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1191-k-concatenation-maximum-sum) |
 | [1200-minimum-absolute-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1200-minimum-absolute-difference) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1248-count-number-of-nice-subarrays) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1395-count-number-of-teams](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1395-count-number-of-teams) |
@@ -415,6 +416,7 @@
 | [1138-alphabet-board-path](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1138-alphabet-board-path) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1189-maximum-number-of-balloons) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1248-count-number-of-nice-subarrays) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1436-destination-city](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1436-destination-city) |
@@ -622,6 +624,7 @@
 | [0877-stone-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0877-stone-game) |
 | [0957-prison-cells-after-n-days](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0957-prison-cells-after-n-days) |
 | [1140-stone-game-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1140-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1248-count-number-of-nice-subarrays) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -729,6 +732,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1140-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1248-count-number-of-nice-subarrays) |
 | [1856-maximum-subarray-min-product](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1856-maximum-subarray-min-product) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -769,6 +773,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1763-longest-nice-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1763-longest-nice-substring) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
