@@ -152,6 +152,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0643-maximum-average-subarray-i) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0682-baseball-game) |
@@ -769,6 +770,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0992-subarrays-with-k-different-integers) |
