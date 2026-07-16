@@ -10,16 +10,16 @@ class Solution {
         int max = 0;
         int count = 0;
         for(int i=0;i<k;i++){
-            if(set.contains(s.charAt(i))){
+            if(s.charAt(i) == 'a' || s.charAt(i) == 'e' || s.charAt(i) == 'i' || s.charAt(i) == 'o' || s.charAt(i) == 'u'){
                 count++;
             }
         }
         max = Math.max(max,count);
         for(int i = k;i<n;i++){
-            if(set.contains(s.charAt(i-k))){
+            if(s.charAt(i-k) == 'a' || s.charAt(i-k) == 'e' || s.charAt(i-k) == 'i' || s.charAt(i-k) == 'o' || s.charAt(i-k) == 'u'){
                 count--;
             }
-            if(set.contains(s.charAt(i))){
+            if(s.charAt(i) == 'a' || s.charAt(i) == 'e' || s.charAt(i) == 'i' || s.charAt(i) == 'o' || s.charAt(i) == 'u'){
                 count++;
             }
             max = Math.max(max,count);
