@@ -219,6 +219,7 @@
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2498-frog-jump-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2498-frog-jump-ii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -429,6 +430,7 @@
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2374-node-with-highest-edge-score](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2374-node-with-highest-edge-score) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2540-minimum-common-value](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2540-minimum-common-value) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -782,6 +784,7 @@
 | [1763-longest-nice-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1763-longest-nice-substring) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2555-maximize-win-from-two-segments](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2555-maximize-win-from-two-segments) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
