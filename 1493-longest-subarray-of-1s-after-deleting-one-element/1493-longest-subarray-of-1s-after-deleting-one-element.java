@@ -3,19 +3,16 @@ class Solution {
         int i = 0;
         int j = 0;
         int n = nums.length;
-        int zero = 0;
+        int zero = -1;
         int maxLen = 0;
         while(j<n){
-            while(zero == 1 && nums[j] == 0){
-                if(nums[i] == 0){
-                    zero--;
-                }
-                i++;
+            if(nums[j] == 0 && zero != -1){
+                i = zero+1;
             }
             if(nums[j] == 0){
-                zero++;
+                zero = j;
             }
-            maxLen = Math.max(maxLen ,j-i+1-zero);
+            maxLen = Math.max(maxLen ,zero == -1 ? j-i+1:j-i);
             j++;
         }
         return maxLen == n ? n-1:maxLen;
