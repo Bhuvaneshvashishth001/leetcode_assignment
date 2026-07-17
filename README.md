@@ -194,6 +194,7 @@
 | [1436-destination-city](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1436-destination-city) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1488-avoid-flood-in-the-city](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1488-avoid-flood-in-the-city) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1514-path-with-maximum-probability](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1514-path-with-maximum-probability) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1631-path-with-minimum-effort) |
@@ -593,6 +594,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1395-count-number-of-teams](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1395-count-number-of-teams) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1494-parallel-courses-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1494-parallel-courses-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1668-maximum-repeating-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1668-maximum-repeating-substring) |
@@ -789,6 +791,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1763-longest-nice-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1763-longest-nice-substring) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2269-find-the-k-beauty-of-a-number) |
