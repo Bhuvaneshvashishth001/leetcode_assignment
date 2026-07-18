@@ -235,6 +235,7 @@
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
@@ -437,6 +438,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2540-minimum-common-value](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2540-minimum-common-value) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -810,6 +812,7 @@
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2555-maximize-win-from-two-segments](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2555-maximize-win-from-two-segments) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
