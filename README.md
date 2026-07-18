@@ -477,6 +477,7 @@
 | [1138-alphabet-board-path](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1138-alphabet-board-path) |
 | [1143-longest-common-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1189-maximum-number-of-balloons) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1208-get-equal-substrings-within-budget) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -696,6 +697,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0713-subarray-product-less-than-k) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1208-get-equal-substrings-within-budget) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1488-avoid-flood-in-the-city](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1488-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1631-path-with-minimum-effort) |
@@ -746,6 +748,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1140-stone-game-ii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1248-count-number-of-nice-subarrays) |
 | [1856-maximum-subarray-min-product](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1856-maximum-subarray-min-product) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -791,6 +794,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
