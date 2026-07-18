@@ -489,6 +489,7 @@
 | [1668-maximum-repeating-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1668-maximum-repeating-substring) |
 | [1763-longest-nice-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1763-longest-nice-substring) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2211-count-collisions-on-a-road](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2211-count-collisions-on-a-road) |
@@ -699,6 +700,7 @@
 | [1488-avoid-flood-in-the-city](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1488-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1631-path-with-minimum-effort) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2187-minimum-time-to-complete-trips) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -746,6 +748,7 @@
 | [1140-stone-game-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1248-count-number-of-nice-subarrays) |
 | [1856-maximum-subarray-min-product](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1856-maximum-subarray-min-product) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3719-longest-balanced-subarray-i) |
@@ -794,6 +797,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1763-longest-nice-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1763-longest-nice-substring) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2555-maximize-win-from-two-segments](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2555-maximize-win-from-two-segments) |
