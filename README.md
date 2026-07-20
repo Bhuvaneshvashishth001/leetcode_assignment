@@ -405,6 +405,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0160-intersection-of-two-linked-lists) |
 | [0409-longest-palindrome](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0575-distribute-candies) |
@@ -465,6 +466,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0168-excel-sheet-column-title) |
 | [0409-longest-palindrome](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -796,6 +798,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0643-maximum-average-subarray-i) |
