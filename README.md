@@ -382,6 +382,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0187-repeated-dna-sequences) |
 | [0784-letter-case-permutation](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0784-letter-case-permutation) |
 | [0957-prison-cells-after-n-days](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0957-prison-cells-after-n-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -405,6 +406,7 @@
 | [0139-word-break](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0187-repeated-dna-sequences) |
 | [0409-longest-palindrome](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -467,6 +469,7 @@
 | [0131-palindrome-partitioning](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0168-excel-sheet-column-title) |
+| [0187-repeated-dna-sequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0187-repeated-dna-sequences) |
 | [0409-longest-palindrome](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -801,6 +804,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0424-longest-repeating-character-replacement) |
@@ -1000,10 +1004,12 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0187-repeated-dna-sequences) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0572-subtree-of-another-tree) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Graph Theory
