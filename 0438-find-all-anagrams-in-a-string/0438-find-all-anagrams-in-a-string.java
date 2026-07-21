@@ -2,30 +2,31 @@ class Solution {
     public List<Integer> findAnagrams(String s, String p) {
         int n = s.length();
         int m = p.length();
-        int i = 0;
-        int j = 0;
-        List<Integer> list = new ArrayList<>();
-        if (s == null || p == null || s.length() < p.length()) {
-            return list;
-        }
         HashMap<Character,Integer> map = new HashMap<>();
-        
-        for(int k=0;k<m;k++){
-            map.put(p.charAt(k),map.getOrDefault(p.charAt(k),0)+1);
+        List<Integer> list = new ArrayList<>();
+        if(p == null || s == null || s.length() < p.length()){
+            return list;
+        } 
+        for(int i=0;i<m;i++){
+            map.put(p.charAt(i),map.getOrDefault(p.charAt(i),0)+1);
         }
         int count = map.size();
+        int i=0;
+        int j=0;
         while(j<n){
-            if(map.containsKey(s.charAt(j))){
-                map.put(s.charAt(j),map.get(s.charAt(j))-1);
-                if(map.get(s.charAt(j)) == 0){
+            char ch = s.charAt(j);
+            if(map.containsKey(ch)){
+                map.put(ch,map.getOrDefault(ch,0)-1);
+                if(map.get(ch) == 0){
                     count--;
                 }
             }
             j++;
             while(count == 0){
-                if(map.containsKey(s.charAt(i))){
-                    map.put(s.charAt(i),map.get(s.charAt(i))+1);
-                    if(map.get(s.charAt(i)) > 0){
+                char start = s.charAt(i);
+                if(map.containsKey(start)){
+                    map.put(start,map.getOrDefault(start,0)+1);
+                    if(map.get(start)> 0){
                         count++;
                     }
                 }
