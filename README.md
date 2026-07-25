@@ -1015,6 +1015,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0547-number-of-provinces) |
 | [1494-parallel-courses-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1494-parallel-courses-ii) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -1089,4 +1090,8 @@
 | [1934-confirmation-rate](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
