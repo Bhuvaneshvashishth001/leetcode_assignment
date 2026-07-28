@@ -25,6 +25,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0851-loud-and-rich) |
 | [0886-possible-bipartition](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0886-possible-bipartition) |
+| [1020-number-of-enclaves](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1020-number-of-enclaves) |
 | [1036-escape-a-large-maze](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1036-escape-a-large-maze) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1110-delete-nodes-and-return-forest) |
 | [1462-course-schedule-iv](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1462-course-schedule-iv) |
@@ -54,6 +55,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1020-number-of-enclaves) |
 | [1036-escape-a-large-maze](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1036-escape-a-large-maze) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -188,6 +190,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1019-next-greater-node-in-linked-list) |
+| [1020-number-of-enclaves](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1020-number-of-enclaves) |
 | [1036-escape-a-large-maze](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1036-escape-a-large-maze) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1043-partition-array-for-maximum-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -703,6 +706,7 @@
 | [0542-01-matrix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1631-path-with-minimum-effort) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -1107,4 +1111,5 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
