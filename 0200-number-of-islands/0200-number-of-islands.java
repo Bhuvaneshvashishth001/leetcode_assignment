@@ -1,29 +1,26 @@
 class Solution {
-    public static void dfs(int row,int col,char mat[][],int visited[][]){
-        visited[row][col] =1;
+    public void dfs(int row,int col,char grid[][],int islands[][]){
+        islands[row][col] = 1;
         int dr[] = {-1,0,0,1};
         int dc[] = {0,-1,1,0};
         for(int i=0;i<4;i++){
             int drow = row+dr[i];
             int dcol = col+dc[i];
-            if(drow>=0 && drow<mat.length && dcol>=0 && dcol<mat[0].length && mat[drow][dcol] =='1' && visited[drow][dcol]!=1){
-                dfs(drow,dcol,mat,visited);
+            if(drow >= 0 && drow <grid.length && dcol >= 0 && dcol <grid[0].length && grid[drow][dcol] == '1' && islands[drow][dcol] == 0){
+                dfs(drow,dcol,grid,islands);
             }
         }
     }
-    public int numIslands(char[][] mat) {
-        int  n =mat.length;
-        int m = mat[0].length;
-        int visited[][] = new int[n][m];
+    public int numIslands(char[][] grid) {
+        int n = grid.length;
+        int m = grid[0].length;
         int count = 0;
+        int islands[][] = new int[n][m];
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(mat[i][j] =='1' && visited[i][j]!=1){
-                    dfs(i,j,mat,visited);
+                if(grid[i][j] == '1' && islands[i][j] == 0){
                     count++;
-                }
-                else{
-                    visited[i][j] =1;
+                    dfs(i,j,grid,islands);
                 }
             }
         }
