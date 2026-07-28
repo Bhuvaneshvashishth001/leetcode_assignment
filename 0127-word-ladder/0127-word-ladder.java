@@ -23,8 +23,8 @@ class Solution {
             String word = p.w;
             int steps = p.step;
             for(int i=0;i<word.length();i++){
+                char arr[] = word.toCharArray();
                 for(char j= 'a' ;j<='z';j++){
-                    char arr[] = word.toCharArray();
                     arr[i] = j;
                     String str = new String(arr);
                     if(set.contains(str)){
