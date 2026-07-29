@@ -30,10 +30,8 @@ class Solution {
                 }
             }
         }
-        for(int i=0;i<n;i++){
-            if(req[i] != 0 ){
-                return new int[]{};
-            }
+        if(j!=n){
+            return new int[]{};
         }
         return order;
     }
