@@ -1,35 +1,34 @@
 class Solution {
-    public boolean cycle(int node,ArrayList<ArrayList<Integer>> adj,int vis[]){
-        vis[node] = 1;
-        for(int it:adj.get(node)){
-            if(vis[it] == 0){
-                if(cycle(it,adj,vis)){
-                    return true;
-                }
-            }
-            else if(vis[it] == 1){
-                return true;
-            }
-        }
-        vis[node] = 2;
-        return false;
-    }
-    public boolean canFinish(int numCourses, int[][] graph) {
+    public boolean canFinish(int n, int[][] pre) {
         ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
-        for(int i=0;i<numCourses;i++){
+        for(int i=0;i<n;i++){
             adj.add(new ArrayList<>());
         }
-        for(int edge[] : graph){
+        int schedule[] = new int[n];
+        for(int edge[] : pre){
             int u = edge[0];
             int v = edge[1];
             adj.get(v).add(u);
+            schedule[u]++;
         }
-        int vis[] = new int[numCourses];
-        for(int i=0;i<numCourses;i++){
-            if(vis[i] == 0){
-                if(cycle(i,adj,vis)){
-                    return false;
+        Queue<Integer> queue= new LinkedList<>();
+        for(int i=0;i<n;i++){
+            if(schedule[i] == 0){
+                queue.add(i);
+            }
+        }
+        while(!queue.isEmpty()){
+            int node = queue.poll();
+            for(int it:adj.get(node)){
+                schedule[it]--;
+                if(schedule[it] == 0){
+                    queue.add(it);
                 }
+            }
+        }
+        for(int i=0;i<n;i++){
+            if(schedule[i] != 0){
+                return false;
             }
         }
         return true;
