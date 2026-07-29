@@ -1,38 +1,39 @@
 class Solution {
-    public int[] findOrder(int V, int[][] edges) {
-        int order[]  = new int[V];
+    public int[] findOrder(int n, int[][] pre) {
         ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
-        for(int i=0;i<V;i++){
+        for(int i=0;i<n;i++){
             adj.add(new ArrayList<>());
         }
-        int indegree[] = new int[V];
-        for(int edge[]:edges){
+        int req[] = new int[n];
+        for(int edge[] : pre){
             int u = edge[0];
             int v = edge[1];
             adj.get(v).add(u);
-            indegree[u]++;
+            req[u]++;
         }
+        int order[] = new int[n];
         Queue<Integer> queue = new LinkedList<>();
-        int count =0;
-        int j=0;
-        for(int i=0;i<V;i++){
-            if(indegree[i] ==0){
-                queue.offer(i);
+        int j = 0;
+        for(int i=0;i<n;i++){
+            if(req[i] == 0){
+                order[j++] = i;
+                queue.add(i);
             }
         }
         while(!queue.isEmpty()){
-            int node = queue.poll();
-            order[j++] = node;
-            count++;
-            for(int ele:adj.get(node)){
-                indegree[ele]--;
-                if(indegree[ele] ==0){
-                    queue.offer(ele);
+            int course = queue.poll();
+            for(int it:adj.get(course)){
+                req[it]--;
+                if(req[it] == 0){
+                    order[j++] = it;
+                    queue.add(it);
                 }
             }
         }
-        if(count != V){
-            return new int[0];
+        for(int i=0;i<n;i++){
+            if(req[i] != 0 ){
+                return new int[]{};
+            }
         }
         return order;
     }
