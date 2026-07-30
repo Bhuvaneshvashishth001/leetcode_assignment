@@ -26,6 +26,9 @@ class Solution {
             int x = t.row;
             int y = t.col;
             int eff = t.effort;
+            if(x == n-1 && y == m-1){
+                return eff;
+            }
             for(int i=0;i<4;i++){
                 int drow = x+dr[i];
                 int dcol = y+dc[i];
@@ -37,6 +40,6 @@ class Solution {
                 }
             }
         }
-        return Efforts[n-1][m-1];
+        return -1;
     }
 }
