@@ -15,7 +15,10 @@ class Solution {
             return -1;
         }
         int visited[][] = new int[n][n];
-        PriorityQueue<Tuple> queue = new PriorityQueue<>((a, b) -> a.dis - b.dis);
+        for(int row[]:visited){
+            Arrays.fill(row,Integer.MAX_VALUE);
+        }
+        Queue<Tuple> queue = new LinkedList<>();
         queue.add(new Tuple(0,0,1));
         int dr[] = {-1,-1,-1,0,0,1,1,1};
         int dc[] = {-1,0,1,-1,1,-1,0,1};
@@ -31,9 +34,11 @@ class Solution {
             for(int i=0;i<8;i++){
                 int drow = x+dr[i];
                 int dcol = y+dc[i];
-                if(drow>=0 && drow<n && dcol >=0 && dcol<n && grid[drow][dcol] == 0 &&visited[drow][dcol] ==0){
-                    visited[drow][dcol]=1;
-                    queue.add(new Tuple(drow,dcol,dis+1));
+                if(drow>=0 && drow<n && dcol >=0 && dcol<n && grid[drow][dcol] == 0){
+                    if(visited[drow][dcol] > dis+1){
+                        visited[drow][dcol] = dis+1;
+                        queue.add(new Tuple(drow,dcol,dis+1));
+                    }
                 }
             }
         }
