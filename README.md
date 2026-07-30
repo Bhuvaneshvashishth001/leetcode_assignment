@@ -1116,4 +1116,5 @@
 | [0547-number-of-provinces](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
