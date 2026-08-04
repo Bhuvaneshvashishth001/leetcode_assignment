@@ -4,11 +4,11 @@ class Solution {
             ans.add(str);
             return;
         }
-        if(close<open){
-            par(ans,str+")",open,close+1,n);
-        }
         if(open<n){
             par(ans,str+"(",open+1,close,n);
+        }
+        if(close<open){
+            par(ans,str+")",open,close+1,n);
         }
     }
     public List<String> generateParenthesis(int n) {
