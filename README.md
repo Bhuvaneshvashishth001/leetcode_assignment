@@ -385,6 +385,7 @@
 | [0050-powx-n](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1922-count-good-numbers) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## Topological Sort
 |  |
@@ -677,6 +678,7 @@
 | [1573-number-of-ways-to-split-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1922-count-good-numbers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1925-count-square-sum-triples) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2269-find-the-k-beauty-of-a-number) |
