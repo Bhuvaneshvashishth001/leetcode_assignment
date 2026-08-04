@@ -483,6 +483,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0072-edit-distance](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0076-minimum-window-substring) |
@@ -586,6 +587,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0070-climbing-stairs) |
@@ -906,6 +908,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0051-n-queens) |
@@ -1158,4 +1161,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0912-sort-an-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
