@@ -124,6 +124,7 @@
 | [0035-search-insert-position](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0053-maximum-subarray) |
@@ -911,6 +912,7 @@
 | [0022-generate-parentheses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0078-subsets) |
