@@ -1,23 +1,23 @@
 class Solution {
-    public static void Combinations(int arr[],int target,int sum,int idx,List<Integer> ans,List<List<Integer>> res){
-        if(sum == target){
-            res.add(new ArrayList<>(ans));
+    public void combinations(List<List<Integer>> ans,List<Integer> list,int t,int idx,int arr[]){
+        if(t == 0){
+            ans.add(new ArrayList<>(list));
             return;
         }
-        if(idx>=arr.length || sum>target){
+        if(idx >= arr.length){
             return;
         }
-        if(sum<=target){
-            ans.add(arr[idx]);
-            Combinations(arr,target,sum+arr[idx],idx,ans,res);
-            ans.remove(ans.size()-1);
+        if(arr[idx]<=t){
+            list.add(arr[idx]);
+            combinations(ans,list,t-arr[idx],idx,arr);
+            list.remove(list.size()-1);
         }
-        Combinations(arr,target,sum,idx+1,ans,res);
+        combinations(ans,list,t,idx+1,arr);        
     }
-    public List<List<Integer>> combinationSum(int[] arr, int target) {
-        List<List<Integer>> res = new ArrayList<>();
-        List<Integer> ans = new ArrayList<>();
-        Combinations(arr,target,0,0,ans,res);
-        return res;
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
+        combinations(ans,list,target,0,candidates);
+        return ans;
     }
 }
