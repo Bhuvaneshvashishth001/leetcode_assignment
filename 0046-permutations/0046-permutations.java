@@ -5,15 +5,15 @@ class Solution {
             return;
         }
         for(int i=idx;i<arr.length;i++){
-            int temp = arr[i];
-            arr[i] = arr[idx];
-            arr[idx] = temp;
+            int temp = arr[idx];
+            arr[idx] = arr[i];
+            arr[i] = temp;
             list.add(arr[idx]);
             all(ans,list,idx+1,arr);
             list.remove(list.size()-1);
-            int temp1 = arr[i];
-            arr[i] = arr[idx];
-            arr[idx] = temp1;
+            int temp1 = arr[idx];
+            arr[idx] = arr[i];
+            arr[i] = temp1;
         }
     }
     public List<List<Integer>> permute(int[] nums) {
