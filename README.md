@@ -402,6 +402,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0187-repeated-dna-sequences) |
@@ -665,6 +666,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0070-climbing-stairs) |
