@@ -690,6 +690,7 @@
 | [2591-distribute-money-to-maximum-children](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2591-distribute-money-to-maximum-children) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2607-make-k-subarray-sums-equal) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -815,6 +816,7 @@
 | [1925-count-square-sum-triples](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1925-count-square-sum-triples) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2708-maximum-strength-of-a-group](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2708-maximum-strength-of-a-group) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Counting
 |  |
 | ------- |
