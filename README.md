@@ -386,6 +386,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1922-count-good-numbers) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
@@ -497,6 +498,7 @@
 | [0139-word-break](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0187-repeated-dna-sequences) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0241-different-ways-to-add-parentheses) |
 | [0409-longest-palindrome](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -607,6 +609,7 @@
 | [0198-house-robber](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0322-coin-change) |
@@ -673,6 +676,7 @@
 | [0070-climbing-stairs](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0168-excel-sheet-column-title) |
 | [0223-rectangle-area](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0223-rectangle-area) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0241-different-ways-to-add-parentheses) |
 | [0292-nim-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0509-fibonacci-number) |
@@ -1041,6 +1045,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0509-fibonacci-number) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 ## Geometry
@@ -1174,4 +1179,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0022-generate-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
