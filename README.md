@@ -828,6 +828,7 @@
 |  |
 | ------- |
 | [0949-largest-time-for-given-digits](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0949-largest-time-for-given-digits) |
+| [1291-sequential-digits](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1925-count-square-sum-triples) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2708-maximum-strength-of-a-group](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2708-maximum-strength-of-a-group) |
