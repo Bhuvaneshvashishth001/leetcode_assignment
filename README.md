@@ -619,6 +619,7 @@
 | [0312-burst-balloons](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0337-house-robber-iii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0435-non-overlapping-intervals) |
@@ -683,6 +684,7 @@
 | [0223-rectangle-area](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0223-rectangle-area) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0241-different-ways-to-add-parentheses) |
 | [0292-nim-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0292-nim-game) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0877-stone-game) |
@@ -939,6 +941,7 @@
 | [0113-path-sum-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0216-combination-sum-iii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0797-all-paths-from-source-to-target) |
