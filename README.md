@@ -256,6 +256,7 @@
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -472,6 +473,7 @@
 | [2540-minimum-common-value](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3583-count-special-triplets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3583-count-special-triplets) |
@@ -910,6 +912,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2607-make-k-subarray-sums-equal) |
 | [2708-maximum-strength-of-a-group](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2708-maximum-strength-of-a-group) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3606-coupon-code-validator](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3634-minimum-removals-to-balance-array) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3645-maximum-total-from-optimal-activation-order) |
