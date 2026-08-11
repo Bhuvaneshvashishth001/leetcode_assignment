@@ -1,49 +1,58 @@
 class Solution {
-    public boolean isSafe(int board[][],int row,int col,int n){
-        int r = row;
-        int c = col;
-        while(r>=0 && c>=0){
-            if(board[r][c] == 1){
+    public boolean isSafe(int row,int col,int board[][],int n){
+        int r1 = row;
+        int c1 = col;
+        while(r1>=0 && c1>=0){
+            if(board[r1][c1] == 1){
                 return false;
             }
-            r--;
-            c--;
+            r1--;
+            c1--;
         }
-        r = row;
-        c = col;
-        while(r<n && c>=0){
-            if(board[r][c] == 1){
+        r1 = row;
+        c1 = col;
+        while(r1<n && c1>=0){
+            if(board[r1][c1] == 1){
                 return false;
             }
-            r++;
-            c--;
+            r1++;
+            c1--;
         }
-        r = row;
-        c = col;
-        while(c>=0){
-            if(board[r][c] == 1){
+        r1 = row;
+        c1 = col;
+        while(c1>=0){
+            if(board[r1][c1] == 1){
                 return false;
             }
-            c--;
+            c1--;
+        }
+        r1 = row;
+        c1 = col;
+        while(r1>=0){
+            if(board[r1][c1] ==1){
+                return false;
+            }
+            r1--;
         }
         return true;
     }
-    public int helper(int board[][],int col,int n){
-        if(col>= board.length){
+    public int helper(int col,int board[][],int n){
+        if(col >= n){
             return 1;
         }
         int count = 0;
-        for(int i=0;i<n;i++){
-            if(isSafe(board,i,col,n)){
-                board[i][col] = 1;
-                count += helper(board,col+1,n);
-                board[i][col] = 0;
+        for(int row =0;row<n;row++){
+            if(isSafe(row,col,board,n)){
+                board[row][col] =1;
+                count += helper(col+1,board,n);
+                board[row][col] = 0;
             }
         }
         return count;
     }
     public int totalNQueens(int n) {
         int board[][] = new int[n][n];
-        return helper(board,0,n);
+        int ans = helper(0,board,n);
+        return ans;
     }
 }
