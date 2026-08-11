@@ -4,6 +4,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0133-clone-graph) |
@@ -130,6 +131,7 @@
 | [0053-maximum-subarray](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0090-subsets-ii) |
@@ -493,6 +495,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0072-edit-distance](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0115-distinct-subsequences) |
@@ -726,6 +729,7 @@
 | [0037-sudoku-solver](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0200-number-of-islands) |
@@ -929,6 +933,7 @@
 | [0052-n-queens-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0113-path-sum-ii) |
