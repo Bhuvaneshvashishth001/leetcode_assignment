@@ -1,82 +1,74 @@
 class Solution {
-
-    public static ArrayList<String> generate(byte[][] board, int n) {
-        ArrayList<String> list = new ArrayList<>();
-
-        for (int i = 0; i < n; i++) {
+    public List<String> generate(int board[][],int n){
+        List<String> list = new ArrayList<>();
+        for(int i=0;i<n;i++){
             StringBuilder sb = new StringBuilder();
-
-            for (int j = 0; j < n; j++) {
-                if (board[i][j] == 1) {
+            for(int j=0;j<n;j++){
+                if(board[i][j] == 1){
                     sb.append("Q");
-                } else {
+                }
+                else{
                     sb.append(".");
                 }
             }
             list.add(sb.toString());
         }
-
         return list;
     }
-
-    public static boolean issafe(byte[][] board, int row, int col, int n) {
-
-        int row1 = row;
-        int col1 = col;
-
-        while (row1 >= 0 && col1 >= 0) {
-            if (board[row1][col1] == 1)
+    public boolean isSafe(int row,int col,int board[][],int n){
+        int r1 = row;
+        int c1 = col;
+        while(r1>=0 && c1>=0){
+            if(board[r1][c1] == 1){
                 return false;
-            row1--;
-            col1--;
+            }
+            r1--;
+            c1--;
         }
-
-        row1 = row;
-        col1 = col;
-
-        while (col1 >= 0) {
-            if (board[row1][col1] == 1)
+        r1 = row ;
+        c1 = col;
+        while(r1<n && c1>=0){
+            if(board[r1][c1] == 1){
                 return false;
-            col1--;
+            }
+            r1++;
+            c1--;
         }
-
-        row1 = row;
-        col1 = col;
-
-        while (row1 < n && col1 >= 0) {
-            if (board[row1][col1] == 1)
+        r1 = row;
+        c1 = col;
+        while(c1>=0){
+            if(board[r1][c1] == 1){
                 return false;
-            row1++;
-            col1--;
+            }
+            c1--;
         }
-
+        r1 = row;
+        c1 = col;
+        while(r1 >=0){
+            if(board[r1][c1] == 1){
+                return false;
+            }
+            r1--;
+        }
         return true;
     }
-
-    public static void helper(byte[][] board, int col,
-                              List<List<String>> result, int n) {
-
-        if (col >= n) {
-            result.add(generate(board, n));
+    public void solve(int col,int n,int board[][],List<List<String>> ans){
+        if(col >= n ){
+            ans.add(new ArrayList<>(generate(board,n)));
             return;
         }
-
-        for (int row = 0; row < n; row++) {
-            if (issafe(board, row, col, n)) {
+        for(int row = 0; row < n ; row++){
+            if(isSafe(row,col,board,n)){
                 board[row][col] = 1;
-                helper(board, col + 1, result, n);
+                solve(col+1,n,board,ans);
                 board[row][col] = 0;
             }
         }
     }
-
     public List<List<String>> solveNQueens(int n) {
-
-        List<List<String>> result = new ArrayList<>();
-        byte[][] board = new byte[n][n];
-
-        helper(board, 0, result, n);
-
-        return result;
+        List<List<String>> ans = new ArrayList<>();
+        int board[][] = new int[n][n];
+        solve(0,n,board,ans);
+        return ans;
     }
 }
