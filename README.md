@@ -1192,4 +1192,8 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0241-different-ways-to-add-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
