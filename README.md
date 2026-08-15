@@ -283,6 +283,7 @@
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3649-number-of-perfect-pairs](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3649-number-of-perfect-pairs) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -420,6 +421,7 @@
 | [2708-maximum-strength-of-a-group](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2708-maximum-strength-of-a-group) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3133-minimum-array-end](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3133-minimum-array-end) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## Hash Table
