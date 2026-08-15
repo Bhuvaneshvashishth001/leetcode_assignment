@@ -476,6 +476,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3583-count-special-triplets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3583-count-special-triplets) |
@@ -553,6 +554,7 @@
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2937-make-three-strings-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2937-make-three-strings-equal) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3582-generate-tag-for-video-caption](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3582-generate-tag-for-video-caption) |
@@ -883,6 +885,7 @@
 | [2555-maximize-win-from-two-segments](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2555-maximize-win-from-two-segments) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3589-count-prime-gap-balanced-subarrays) |
