@@ -1,23 +1,36 @@
 class Solution {
-    public static void helper(List<String>list,String str,String s,String ans,int point){
-        if(point == 4 && s.length()==0){
-            list.add(ans.substring(0,ans.length()-1));
+    public void restore(int idx,String sb,int points,String s,List<String> ans){
+        
+        if(points > 4){
             return;
         }
-        if(point>4){
+        if(points == 4 && idx < s.length()){
             return;
         }
-        for(int idx =1;idx<=3 && idx<=s.length() ;idx++){
-            str = s.substring(0,idx);
-            if(str.length()>1 && (str.charAt(0) =='0' || Integer.parseInt(str)>255)){
-                continue;
+        if(idx > s.length()){
+            return;
+        }
+        if(points == 4 && idx == s.length()){
+            ans.add(sb.substring(0,sb.length()-1));
+            return;
+        }
+        String str = "";
+        for(int i=idx;i<s.length();i++){
+            str += s.charAt(i);
+            if(str.length()>1 && str.charAt(0) == '0'){
+                break;
             }
-            helper(list,str,s.substring(idx),ans+str+".",point+1);
+            if(Integer.parseInt(str) <= 255){
+                restore(i+1,sb+str+".",points+1,s,ans);
+            }
+            else{
+                break;
+            }
         }
-    }
+    } 
     public List<String> restoreIpAddresses(String s) {
-        List<String>list = new ArrayList<>();
-        helper(list,"",s,"",0);
-        return list;
+        List<String> ans  = new ArrayList<>();
+        restore(0,"",0,s,ans);
+        return ans;
     }
 }
