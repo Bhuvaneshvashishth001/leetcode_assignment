@@ -524,6 +524,7 @@
 | [0784-letter-case-permutation](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0784-letter-case-permutation) |
 | [0833-find-and-replace-in-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0833-find-and-replace-in-string) |
 | [0838-push-dominoes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0838-push-dominoes) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0925-long-pressed-name](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0925-long-pressed-name) |
 | [0949-largest-time-for-given-digits](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0949-largest-time-for-given-digits) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -957,6 +958,7 @@
 | [0494-target-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0797-all-paths-from-source-to-target) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0949-largest-time-for-given-digits](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0949-largest-time-for-given-digits) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
