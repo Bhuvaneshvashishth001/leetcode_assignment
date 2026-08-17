@@ -510,6 +510,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0187-repeated-dna-sequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0241-different-ways-to-add-parentheses) |
+| [0306-additive-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0306-additive-number) |
 | [0409-longest-palindrome](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -954,6 +955,7 @@
 | [0113-path-sum-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0216-combination-sum-iii) |
+| [0306-additive-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0784-letter-case-permutation) |
