@@ -1,19 +1,18 @@
 class Solution {
-    public int robber(int nums[],int idx , int dp[]){
+    public int robbery(int idx,int nums[],int dp[]){
         if(idx >= nums.length){
             return 0;
         }
-        if(dp[idx] !=-1){
+        if(dp[idx] != -1){
             return dp[idx];
         }
-        int rob = nums[idx]+robber(nums,idx+2,dp);
-        int notRob = robber(nums,idx+1,dp);
-        return dp[idx] = Math.max(rob,notRob);
+        int pick = nums[idx] + robbery(idx+2,nums,dp);
+        int notPick = robbery(idx+1,nums,dp);
+        return dp[idx] = Math.max(pick,notPick);
     }
     public int rob(int[] nums) {
-        int n = nums.length;
-        int dp[] = new int[n];
+        int dp[] = new int[nums.length];
         Arrays.fill(dp,-1);
-        return robber(nums,0,dp);
+        return robbery(0,nums,dp);
     }
 }
