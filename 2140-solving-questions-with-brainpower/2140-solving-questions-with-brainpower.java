@@ -1,19 +1,13 @@
 class Solution {
-    public long points(int idx,int que[][],long dp[]){
-        if(idx >= que.length){
-            return 0;
-        }
-        if(dp[idx] != -1){
-            return dp[idx];
-        }
-        long pick = que[idx][0]+points(idx+que[idx][1]+1,que,dp);
-        long notPick = points(idx+1,que,dp);
-        return dp[idx] = Math.max(pick,notPick);
-    }
     public long mostPoints(int[][] que) {
         int n = que.length;
         long dp[] = new long[n];
-        Arrays.fill(dp,-1);
-        return points(0,que,dp);
+        dp[n-1] = que[n-1][0];
+        for(int i=n-2 ;i>=0 ;i--){
+            long pick = que[i][0] + ((i+que[i][1]+1 < n) ? dp[i+que[i][1]+1] : 0);
+            long notPick = dp[i+1];
+            dp[i] = Math.max(pick,notPick);
+        }
+        return dp[0];
     }
 }
