@@ -1,23 +1,34 @@
 class Solution {
+    public int decode(int idx,String s,int dp[]){
+        if(idx>= s.length()){
+            return 1;
+        }
+        if(dp[idx] != -1){
+            return dp[idx];
+        }
+        String str = "";
+        int count = 0;
+        for(int i=idx;i<s.length();i++){
+            str += s.charAt(i);
+            if(str.charAt(0) == '0'){
+                return 0;
+            }
+            if(str.length()>3){
+                break;
+            }
+            int val = Integer.parseInt(str);
+            if(val>0 && val<=26){
+                count += decode(i+1,s,dp);
+            }
+        }
+        return dp[idx] = count;
+    }
     public int numDecodings(String s) {
-        if(s.length() ==0 || s.charAt(0) == '0'){
+        if(s.charAt(0) == '0'){
             return 0;
         }
-        int n = s.length();
-        int dp[] = new int[n+1];
-        dp[0] = 1;
-        dp[1] = s.charAt(0) == 0 ? 0:1;
-        for(int i=2; i<n+1 ;i++){
-            int single = Integer.parseInt(s.substring(i-1,i));
-            int dub = Integer.parseInt(s.substring(i-2,i));
-
-            if(single>0){
-                dp[i] += dp[i-1];
-            }
-            if(dub >=10 && dub<=26){
-                dp[i] += dp[i-2];
-            }
-        }
-        return dp[n];
+        int dp[] = new int[s.length()];
+        Arrays.fill(dp,-1);
+        return decode(0,s,dp);
     }
 }
