@@ -1,31 +1,27 @@
 class Solution {
-    public int coinChange(int[] arr,int amount) {
-        int n = arr.length;
+    public int com(int idx,int coins[],int amount, int org,int dp[][]){
+        if(amount<0){
+            return org+1;
+        }
+        if(amount == 0){
+            return 0;
+        }
+        if(idx >= coins.length){
+            return org+1;
+        }
+        if(dp[idx][amount] != Integer.MAX_VALUE){
+            return dp[idx][amount];
+        }
+        int pick = 1+com(idx,coins,amount-coins[idx],org,dp);
+        int notPick = com(idx+1,coins,amount,org,dp);
+        return dp[idx][amount] = Math.min(pick,notPick);
+    }
+    public int coinChange(int[] coins, int amount) {
+        int n = coins.length;
         int dp[][] = new int[n][amount+1];
-        int INF = (int)1e9;
-        for(int i=0;i<n;i++){
-            dp[i][0] =0;
+        for(int row[] : dp){
+            Arrays.fill(row,Integer.MAX_VALUE);
         }
-        for(int j=1;j<=amount;j++){
-            if(j % arr[0] == 0){
-                dp[0][j] = j / arr[0];
-            } else {
-                dp[0][j] = INF;
-            }
-        }
-        for(int i=1;i<n;i++){
-            for(int j=1;j<=amount;j++){
-                int first = dp[i-1][j];
-                int second = INF;
-                if(j-arr[i] > 0){
-                    second = dp[i][j-arr[i]];
-                }
-                if(j == arr[i]){
-                    second = 0;
-                }
-                dp[i][j]  =Math.min(first,second+1);
-            }
-        }
-        return dp[n-1][amount] ==INF?-1:dp[n-1][amount];
+        return (com(0,coins,amount,amount,dp)>amount)? -1 : com(0,coins,amount,amount,dp);
     }
 }
