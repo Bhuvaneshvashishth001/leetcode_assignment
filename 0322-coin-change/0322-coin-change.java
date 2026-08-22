@@ -1,27 +1,24 @@
 class Solution {
-    public int com(int idx,int coins[],int amount, int org,int dp[][]){
-        if(amount<0){
-            return org+1;
-        }
-        if(amount == 0){
-            return 0;
-        }
-        if(idx >= coins.length){
-            return org+1;
-        }
-        if(dp[idx][amount] != Integer.MAX_VALUE){
-            return dp[idx][amount];
-        }
-        int pick = 1+com(idx,coins,amount-coins[idx],org,dp);
-        int notPick = com(idx+1,coins,amount,org,dp);
-        return dp[idx][amount] = Math.min(pick,notPick);
-    }
     public int coinChange(int[] coins, int amount) {
         int n = coins.length;
+        Arrays.sort(coins);
         int dp[][] = new int[n][amount+1];
         for(int row[] : dp){
-            Arrays.fill(row,Integer.MAX_VALUE);
+            Arrays.fill(row,amount+1);
         }
-        return (com(0,coins,amount,amount,dp)>amount)? -1 : com(0,coins,amount,amount,dp);
+        for(int i=0;i<n;i++){
+            dp[i][0] = 0;
+        } 
+        for(int i=0;i<n;i++){
+            for(int j=1;j<=amount;j++){
+                int notPick = (i>0)?dp[i-1][j]:amount+1;
+                int pick = amount+1;
+                if(j>=coins[i]){
+                    pick = 1+dp[i][j-coins[i]];
+                }
+                dp[i][j] = Math.min(pick,notPick);
+            }
+        }
+        return dp[n-1][amount] > amount ? -1:dp[n-1][amount];
     }
 }
