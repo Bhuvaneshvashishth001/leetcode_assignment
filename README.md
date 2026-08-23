@@ -639,6 +639,7 @@
 | [0312-burst-balloons](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0377-combination-sum-iv) |
@@ -709,6 +710,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0292-nim-game) |
+| [0343-integer-break](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0509-fibonacci-number) |
