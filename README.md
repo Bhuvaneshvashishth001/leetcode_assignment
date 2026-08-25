@@ -206,6 +206,7 @@
 | [1020-number-of-enclaves](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1020-number-of-enclaves) |
 | [1036-escape-a-large-maze](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1036-escape-a-large-maze) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1043-partition-array-for-maximum-sum) |
+| [1046-last-stone-weight](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1110-delete-nodes-and-return-forest) |
 | [1140-stone-game-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1140-stone-game-ii) |
@@ -821,6 +822,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1488-avoid-flood-in-the-city) |
 | [1514-path-with-maximum-probability](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1514-path-with-maximum-probability) |
