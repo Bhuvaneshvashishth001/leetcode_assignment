@@ -13,7 +13,7 @@ class Solution {
             str += s.charAt(i);
             if(set.contains(str)){
                 if(isContain(i+1,s,"",set,dp) || isContain(i+1,s,str,set,dp)){
-                    return dp[i] = true;
+                    return dp[idx] = true;
                 }
             }
         }
