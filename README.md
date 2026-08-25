@@ -1250,4 +1250,8 @@
 | [0279-perfect-squares](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0518-coin-change-ii) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
