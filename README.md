@@ -572,6 +572,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2937-make-three-strings-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2937-make-three-strings-equal) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -914,6 +915,7 @@
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2555-maximize-win-from-two-segments](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2555-maximize-win-from-two-segments) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3090-maximum-length-substring-with-two-occurrences) |
