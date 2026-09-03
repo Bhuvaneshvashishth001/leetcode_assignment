@@ -303,6 +303,7 @@
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3781-maximum-score-after-binary-swaps) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Stack
 |  |
@@ -754,6 +755,7 @@
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Brainteaser
 |  |
