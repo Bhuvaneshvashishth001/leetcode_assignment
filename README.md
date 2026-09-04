@@ -244,6 +244,7 @@
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2007-find-original-array-from-doubled-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2140-solving-questions-with-brainpower](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2140-solving-questions-with-brainpower) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
@@ -613,6 +614,7 @@
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2310-sum-of-numbers-with-units-digit-k) |
