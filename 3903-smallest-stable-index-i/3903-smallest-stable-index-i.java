@@ -4,10 +4,12 @@ class Solution {
         int max[] = new int[n];
         int min[] = new int[n];
         max[0] = nums[0];
-        min[n-1] = nums[n-1];
         for(int i=1;i<n;i++){
             max[i] = Math.max(max[i-1],nums[i]);
-            min[n-(i+1)] = Math.min(min[n-(i+1)+1],nums[n-(i+1)]);
+        }
+        min[n-1] = nums[n-1];
+        for(int i=n-2;i>=0;i--){
+            min[i] = Math.min(min[i+1],nums[i]);
         }
         for(int i=0;i<n;i++){
             if(max[i]-min[i] <= k){
