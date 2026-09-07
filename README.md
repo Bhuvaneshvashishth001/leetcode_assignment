@@ -550,6 +550,7 @@
 | [0838-push-dominoes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0838-push-dominoes) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0925-long-pressed-name](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0925-long-pressed-name) |
+| [0940-distinct-subsequences-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0940-distinct-subsequences-ii) |
 | [0949-largest-time-for-given-digits](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0949-largest-time-for-given-digits) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1092-shortest-common-supersequence) |
@@ -676,6 +677,7 @@
 | [0877-stone-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0940-distinct-subsequences-ii) |
 | [0956-tallest-billboard](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0956-tallest-billboard) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1043-partition-array-for-maximum-sum) |
 | [1092-shortest-common-supersequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1092-shortest-common-supersequence) |
