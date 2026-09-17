@@ -1269,6 +1269,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -1280,4 +1281,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0139-word-break) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
