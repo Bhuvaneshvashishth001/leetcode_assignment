@@ -1,17 +1,26 @@
 class Solution {
+    public int insert(int i,int j ,String s,int dp[][]){
+        if(i>j){
+            return 0;
+        }
+        if(dp[i][j] != -1){
+            return dp[i][j];
+        }
+        if(s.charAt(i) == s.charAt(j)){
+            return dp[i][j] =  insert(i+1,j-1,s,dp);
+        }
+        else{
+            int first = 1+insert(i+1,j,s,dp);
+            int second = 1+insert(i,j-1,s,dp);
+            return dp[i][j] = Math.min(first,second);
+        }
+    }
     public int minInsertions(String s) {
         int n = s.length();
         int dp[][] = new int[n+1][n+1];
-        for(int i=n-1;i>=0;i--){
-            for(int j=n-1;j>=0;j--){
-                if(s.charAt(i) == s.charAt((n-1)-j)){
-                    dp[i][j] = 1+dp[i+1][j+1];
-                }
-                else{
-                    dp[i][j] = Math.max(dp[i+1][j],dp[i][j+1]);
-                }
-            }
+        for(int row[] : dp){
+            Arrays.fill(row,-1);
         }
-        return n-dp[0][0];
+        return insert(0,n-1,s,dp);
     }
 }
