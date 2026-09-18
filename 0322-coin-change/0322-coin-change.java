@@ -1,24 +1,26 @@
 class Solution {
-    public int coinChange(int[] coins, int amount) {
-        int n = coins.length;
-        Arrays.sort(coins);
-        int dp[][] = new int[n][amount+1];
-        for(int row[] : dp){
-            Arrays.fill(row,amount+1);
+    public int change(int len,int coins[],int amount,int dp[][]){
+        if(amount == 0){
+            return 0;
         }
-        for(int i=0;i<n;i++){
-            dp[i][0] = 0;
-        } 
-        for(int i=0;i<n;i++){
-            for(int j=1;j<=amount;j++){
-                int notPick = (i>0)?dp[i-1][j]:amount+1;
-                int pick = amount+1;
-                if(j>=coins[i]){
-                    pick = 1+dp[i][j-coins[i]];
-                }
-                dp[i][j] = Math.min(pick,notPick);
+        if(dp[len][amount] != -1){
+            return dp[len][amount];
+        }
+        int minC = 1000000;
+        for(int i=0;i<len;i++){
+            if(coins[i] <=amount){
+                int pick = 1+change(len,coins,amount-coins[i],dp);
+                minC =  Math.min(minC,pick);
             }
         }
-        return dp[n-1][amount] > amount ? -1:dp[n-1][amount];
+        return dp[len][amount] = minC;
+    }
+    public int coinChange(int[] coins, int amount) {
+        int n = coins.length;
+        int dp[][] = new int[n+1][amount+1];
+        for(int row[] : dp){
+            Arrays.fill(row,-1);
+        }
+        return change(n,coins,amount,dp)== 1000000 ? -1 : change(n,coins,amount,dp);
     }
 }
