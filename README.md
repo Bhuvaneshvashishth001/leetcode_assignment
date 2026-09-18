@@ -1285,4 +1285,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0416-partition-equal-subset-sum) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
