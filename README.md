@@ -1289,4 +1289,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
