@@ -378,6 +378,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -402,6 +403,7 @@
 | [0567-permutation-in-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0567-permutation-in-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0838-push-dominoes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0838-push-dominoes) |
+| [0876-middle-of-the-linked-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0876-middle-of-the-linked-list) |
 | [0925-long-pressed-name](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0925-long-pressed-name) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
