@@ -136,6 +136,7 @@
 | [0051-n-queens](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0079-word-search) |
