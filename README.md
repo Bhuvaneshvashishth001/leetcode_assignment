@@ -192,6 +192,7 @@
 | [0833-find-and-replace-in-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0833-find-and-replace-in-string) |
 | [0851-loud-and-rich](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0851-loud-and-rich) |
 | [0853-car-fleet](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0853-car-fleet) |
+| [0860-lemonade-change](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0904-fruit-into-baskets) |
@@ -622,6 +623,7 @@
 | [0605-can-place-flowers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0860-lemonade-change](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0860-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1488-avoid-flood-in-the-city](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1488-avoid-flood-in-the-city) |
