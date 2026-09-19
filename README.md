@@ -128,6 +128,7 @@
 | [0035-search-insert-position](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0048-rotate-image) |
@@ -314,6 +315,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
@@ -338,6 +340,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0456-132-pattern) |
@@ -385,6 +388,7 @@
 | [0015-3sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0142-linked-list-cycle-ii) |
@@ -641,6 +645,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0070-climbing-stairs) |
