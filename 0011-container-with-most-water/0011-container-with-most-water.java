@@ -4,17 +4,17 @@ class Solution {
         int r = arr.length-1;
         int total = 0;
         while(l<r){
-            if(arr[l]<=arr[r]){
-               int T = arr[l]*(r-l);
-               if(T>total){
-                total = T;
-               }
-               l++;
+            if(arr[l] <= arr[r]){
+                int t = arr[l]*(r-l);
+                if(t > total){
+                    total = t;
+                }
+                l++;
             }
             else{
-                int T = arr[r]*(r-l);
-                if(T>total){
-                    total=T;
+                int t = arr[r]*(r-l);
+                if(t>total){
+                    total = t;                
                 }
                 r--;
             }
