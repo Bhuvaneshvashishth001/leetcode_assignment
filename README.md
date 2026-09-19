@@ -372,6 +372,7 @@
 | [0061-rotate-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0160-intersection-of-two-linked-lists) |
@@ -391,6 +392,7 @@
 | [0042-trapping-rain-water](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0141-linked-list-cycle](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0151-reverse-words-in-a-string) |
@@ -464,6 +466,7 @@
 | [0076-minimum-window-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0187-repeated-dna-sequences) |
@@ -1314,4 +1317,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0229-majority-element-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
