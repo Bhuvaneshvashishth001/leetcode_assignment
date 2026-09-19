@@ -129,6 +129,7 @@
 | [0037-sudoku-solver](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0048-rotate-image) |
@@ -616,6 +617,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0134-gas-station) |
@@ -655,6 +657,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0063-unique-paths-ii) |
