@@ -3,6 +3,15 @@ class Solution {
         int n = gas.length;
         int tank = 0;
         int spend = 0;
+        for(int i=0 ; i<n ;i++){
+            tank += gas[i];
+            spend += cost[i];
+        }
+        if(tank < spend){
+            return -1;
+        }
+        tank = 0;
+        spend = 0;
         int j = 0;
         for(int i=0;i<2*n && j<n;i++){
             tank += gas[i%n];
