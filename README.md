@@ -133,6 +133,7 @@
 | [0046-permutations](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0055-jump-game) |
@@ -472,6 +473,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0139-word-break) |
@@ -548,6 +550,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0079-word-search) |
@@ -985,6 +988,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0229-majority-element-ii) |
