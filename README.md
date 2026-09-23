@@ -148,6 +148,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0139-word-break) |
@@ -477,6 +478,7 @@
 | [0037-sudoku-solver](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0141-linked-list-cycle) |
@@ -1283,6 +1285,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0785-is-graph-bipartite) |
