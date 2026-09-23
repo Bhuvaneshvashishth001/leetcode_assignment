@@ -481,6 +481,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -559,6 +560,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0187-repeated-dna-sequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0242-valid-anagram) |
 | [0306-additive-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0306-additive-number) |
 | [0409-longest-palindrome](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0424-longest-repeating-character-replacement) |
@@ -986,6 +988,7 @@
 | [0056-merge-intervals](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0455-assign-cookies) |
