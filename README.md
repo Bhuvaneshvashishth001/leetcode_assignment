@@ -17,6 +17,7 @@
 | [0547-number-of-provinces](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0743-network-delay-time) |
@@ -48,6 +49,7 @@
 | [0542-01-matrix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0743-network-delay-time) |
@@ -193,6 +195,7 @@
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0713-subarray-product-less-than-k) |
 | [0720-longest-word-in-dictionary](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0721-accounts-merge) |
@@ -833,6 +836,7 @@
 | [0200-number-of-islands](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1020-number-of-enclaves) |
@@ -1291,6 +1295,7 @@
 | [0130-surrounded-regions](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1631-path-with-minimum-effort) |
