@@ -1,9 +1,9 @@
 class Solution {
-    class Pair{
+    class tuple{
         int row;
         int col;
         int time;
-        public Pair(int row,int col,int time){
+        public tuple(int row,int col,int time){
             this.row = row;
             this.col = col;
             this.time = time;
@@ -12,45 +12,45 @@ class Solution {
     public int orangesRotting(int[][] grid) {
         int n = grid.length;
         int m = grid[0].length;
-        int matrix[][] = new int[n][m];
-        Queue<Pair> queue = new LinkedList<>();
-        int freshOrange = 0;
+        int vis[][] = new int[n][m];
+        Queue<tuple> queue = new LinkedList<>();
+        int fresh = 0;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(grid[i][j] == 2){
-                    queue.add(new Pair(i,j,0));
-                    matrix[i][j] = 1;
-                }
                 if(grid[i][j] == 1){
-                    freshOrange++;
+                    fresh++;
                 }
-                if(grid[i][j] == 0){
-                    matrix[i][j] =1;
+                else if(grid[i][j] == 2){
+                    vis[i][j] =2;
+                    queue.add(new tuple(i,j,0));
+                }
+                else{
+                    vis[i][j] =2;
                 }
             }
         }
         int dr[] = {-1,0,0,1};
         int dc[] = {0,-1,1,0};
-        int min = 0;
+        int ans = 0;
         while(!queue.isEmpty()){
-            Pair p = queue.poll();
-            int x = p.row;
-            int y = p.col;
-            int t = p.time;
-            min = Math.max(min,t);
+            tuple t = queue.poll();
+            int x = t.row;
+            int y = t.col;
+            int time = t.time;
+            ans = Math.max(ans,time);
             for(int i=0;i<4;i++){
                 int drow = x+dr[i];
                 int dcol = y+dc[i];
-                if(drow>=0 && dcol>=0 && drow <n && dcol<m && matrix[drow][dcol] == 0 && grid[drow][dcol] == 1){
-                    matrix[drow][dcol] =1;
-                    freshOrange--;
-                    queue.add(new Pair(drow,dcol,t+1));
+                if(drow>=0 && drow<n && dcol >=0 && dcol <m && vis[drow][dcol] != 2){
+                    vis[drow][dcol] = 2;
+                    fresh--;
+                    queue.add(new tuple(drow,dcol,time+1));
                 }
             }
         }
-        if(freshOrange != 0){
+        if(fresh > 0){
             return -1;
-        } 
-        return min;
+        }
+        return  ans;
     }
 }
