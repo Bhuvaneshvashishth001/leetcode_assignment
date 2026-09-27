@@ -1,15 +1,36 @@
 class Solution {
-    public static int findF(int arr[],int target){
-        int start = 0 ;
-        int end = arr.length-1;
+    public int find1(int nums[] , int target){
+        int n = nums.length;
+        int start = 0;
+        int end = n-1;
         int ans = -1;
-        while(start<=end){
+        while(start<= end){
             int mid = start+(end-start)/2;
-            if(arr[mid]==target){
-                ans=mid;
+            if(nums[mid] == target){
+                end = mid-1;
+                ans = mid;
+            }
+            else if(nums[mid] > target){
                 end = mid-1;
             }
-            else if(arr[mid]<target){
+            else{
+                start = mid+1;
+            }
+        }
+        return ans;
+    }
+    public int find2(int nums[],int target){
+        int n = nums.length;
+        int start = 0;
+        int end = n-1;
+        int ans = -1;
+        while(start<= end){
+            int mid = start+(end-start)/2;
+            if(nums[mid] == target){
+                start = mid+1;
+                ans = mid;
+            }
+            else if(nums[mid] < target){
                 start = mid+1;
             }
             else{
@@ -18,31 +39,13 @@ class Solution {
         }
         return ans;
     }
-    public static int findL(int arr[],int target){
-        int start = 0 ;
-        int end = arr.length-1;
-        int ans = -1;
-        while(start<=end){
-            int mid = start+(end-start)/2;
-            if(arr[mid]==target){
-                ans=mid;
-                start = mid+1;
-            }
-            else if(arr[mid]<target){
-                start = mid+1;
-            }
-            else{
-                end = mid-1;
-            }
-        }
+    public int[] searchRange(int[] nums, int target) {
+        int n = nums.length;
+        int ans[] = new int[2];
+        int first = find1(nums,target);
+        int last = find2(nums,target);
+        ans[0] = first;
+        ans[1] = last;
         return ans;
-    }
-    public int[] searchRange(int[] arr, int target) {
-        int res[] = new int[2];
-        int first = findF(arr,target);
-        int last = findL(arr,target);
-        res[0] = first;
-        res[1] = last;
-        return res;
     }
 }
