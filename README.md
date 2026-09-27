@@ -212,6 +212,7 @@
 | [0853-car-fleet](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0907-sum-of-subarray-minimums) |
@@ -866,6 +867,7 @@
 | [0456-132-pattern](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0713-subarray-product-less-than-k) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0875-koko-eating-bananas](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1208-get-equal-substrings-within-budget) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
