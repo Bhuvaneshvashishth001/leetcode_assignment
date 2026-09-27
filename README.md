@@ -241,6 +241,7 @@
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1248-count-number-of-nice-subarrays) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1395-count-number-of-teams](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1395-count-number-of-teams) |
 | [1436-destination-city](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1436-destination-city) |
@@ -870,6 +871,7 @@
 | [0875-koko-eating-bananas](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1208-get-equal-substrings-within-budget) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1488-avoid-flood-in-the-city](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1488-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1631-path-with-minimum-effort) |
