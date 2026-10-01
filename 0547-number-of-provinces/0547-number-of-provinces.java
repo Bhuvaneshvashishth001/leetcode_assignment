@@ -13,11 +13,9 @@ class Solution {
         int vis[] = new int[n];
         int count = 0;
         for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(isConnected[i][j] == 1 && vis[j] != 1){
-                    count++;
-                    dfs(j,isConnected,vis);
-                }
+            if(vis[i] != 1){
+                count++;
+                dfs(i,isConnected,vis);
             }
         }
         return count;
