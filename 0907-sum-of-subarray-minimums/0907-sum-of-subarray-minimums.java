@@ -5,11 +5,11 @@ class Solution {
         int nse[] = new int[n];
         Stack<Integer> stack = new Stack<>();
         for(int i=0;i<n;i++){
-            while(!stack.isEmpty() && arr[stack.peek()]>arr[i]){
+            while(!stack.isEmpty() && arr[i] <= arr[stack.peek()]){
                 stack.pop();
             }
             if(stack.isEmpty()){
-                pse[i] =-1;
+                pse[i] = -1;
             }
             else{
                 pse[i] = stack.peek();
@@ -18,7 +18,7 @@ class Solution {
         }
         stack.clear();
         for(int i=n-1;i>=0;i--){
-            while(!stack.isEmpty() && arr[stack.peek()]>=arr[i]){
+            while(!stack.isEmpty() && arr[i] < arr[stack.peek()]){
                 stack.pop();
             }
             if(stack.isEmpty()){
@@ -34,7 +34,7 @@ class Solution {
         for(int i=0;i<n;i++){
             long l = i-pse[i];
             long r =nse[i]-i;
-            result= (result+arr[i]*l*r)%mod;
+            result= (result+(long)arr[i]*l*r)%mod;
         }
         return (int)result;
     }
