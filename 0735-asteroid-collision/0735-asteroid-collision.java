@@ -1,40 +1,37 @@
 class Solution {
-    public int[] asteroidCollision(int[] arr) {
-        int n = arr.length;
+    public int[] asteroidCollision(int[] asteroids) {
         Stack<Integer> stack = new Stack<>();
-        for(int i=0;i<n;i++){
-            if(arr[i]>= 0){
-                stack.push(i);
-            }
-            else{
-                boolean found = false;
-                boolean tie = false;
-                if(stack.isEmpty() || arr[stack.peek()]<0){
-                    stack.push(i);
+
+        for (int asteroid : asteroids) {
+
+            boolean alive = true;
+
+            while (alive && asteroid < 0 &&
+                   !stack.isEmpty() && stack.peek() > 0) {
+
+                if (stack.peek() < -asteroid) {
+                    stack.pop();
                 }
-                else{
-                    while(!stack.isEmpty() && arr[stack.peek()] >0 && Math.abs(arr[i])>=arr[stack.peek()]){
-                        if(Math.abs(arr[i]) > arr[stack.peek()]){
-                            found = true;
-                        }
-                        if(Math.abs(arr[i]) == arr[stack.peek()]){
-                            tie = true;
-                            stack.pop();
-                            break;
-                        }
-                        stack.pop();
-                    }
-                    if((tie == false) && ((found && stack.isEmpty())  || (!stack.isEmpty() && arr[stack.peek()] <0 && found))){
-                        stack.push(i);
-                        found = false;
-                    }
+                else if (stack.peek() == -asteroid) {
+                    stack.pop();
+                    alive = false;
+                }
+                else {
+                    alive = false;
                 }
             }
-        }   
-        int ans[] = new int[stack.size()];
-        for(int i=ans.length-1;i>=0;i--){
-            ans[i] = arr[stack.pop()];
+
+            if (alive) {
+                stack.push(asteroid);
+            }
         }
+
+        int[] ans = new int[stack.size()];
+
+        for (int i = ans.length - 1; i >= 0; i--) {
+            ans[i] = stack.pop();
+        }
+
         return ans;
     }
 }
