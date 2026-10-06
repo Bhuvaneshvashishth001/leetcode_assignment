@@ -1,33 +1,34 @@
 class Solution {
+    int dr[] = {1,0};
+    int dc[] = {0,1};
+    public int path(int sr,int sc,int er,int ec,int grid[][],int dp[][]){
+        if(sr == er && sc == ec){
+            return 1;
+        }
+        if(dp[sr][sc]  != -1){
+            return dp[sr][sc];
+        }
+        int count = 0;
+        for(int i=0;i<2;i++){
+            int drow = sr+dr[i];
+            int dcol = sc+dc[i];
+            if(drow >= 0 && drow <= er && dcol >= 0 && dcol <= ec && grid[drow][dcol] == 0){
+                count += path(drow,dcol,er,ec,grid,dp);
+            }
+        }
+        dp[sr][sc] = count;
+        return dp[sr][sc];
+    }
     public int uniquePathsWithObstacles(int[][] grid) {
         int n = grid.length;
         int m = grid[0].length;
-        if(grid[0][0]==1 || grid[n-1][m-1] == 1){
+        int dp[][] = new int[n][m];
+        for(int rows[] : dp){
+            Arrays.fill(rows,-1);
+        }   
+        if(grid[0][0] == 1 || grid[n-1][m-1] == 1){
             return 0;
         }
-        int dp[][] = new int[n+1][m+1];
-        for(int i=0;i<=n;i++){
-            dp[i][m] = 0;
-        }
-        for(int i=0;i<=m;i++){
-            dp[n][i] = 0;
-        }
-        dp[n-1][m-1] = 1;
-        for(int i=n-1;i>=0;i--){
-            for(int j=m-1;j>=0;j--){
-                if(i == n-1 && j == m-1){
-                    continue;
-                }
-                else{ 
-                    if(grid[i][j] == 1){
-                        dp[i][j] = 0;
-                    }
-                    else{
-                        dp[i][j] = dp[i][j+1]+dp[i+1][j];
-                    }
-                }
-            }
-        }
-        return dp[0][0];
+        return path(0,0,n-1,m-1,grid,dp);
     }
 }
