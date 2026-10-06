@@ -278,6 +278,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2104-sum-of-subarray-ranges](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2104-sum-of-subarray-ranges) |
 | [2140-solving-questions-with-brainpower](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2140-solving-questions-with-brainpower) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2187-minimum-time-to-complete-trips) |
@@ -362,6 +363,7 @@
 | [1856-maximum-subarray-min-product](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1856-maximum-subarray-min-product) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
+| [2104-sum-of-subarray-ranges](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2104-sum-of-subarray-ranges) |
 | [2211-count-collisions-on-a-road](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2211-count-collisions-on-a-road) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -384,6 +386,7 @@
 | [1856-maximum-subarray-min-product](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1856-maximum-subarray-min-product) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
+| [2104-sum-of-subarray-ranges](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2104-sum-of-subarray-ranges) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
