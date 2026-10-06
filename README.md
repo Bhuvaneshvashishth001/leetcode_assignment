@@ -128,6 +128,7 @@
 | [0014-longest-common-prefix](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0035-search-insert-position) |
@@ -419,6 +420,7 @@
 | [0015-3sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
