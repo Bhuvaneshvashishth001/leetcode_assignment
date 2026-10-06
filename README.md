@@ -146,6 +146,7 @@
 | [0056-merge-intervals](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0084-largest-rectangle-in-histogram) |
@@ -702,6 +703,7 @@
 | [0053-maximum-subarray](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0085-maximal-rectangle) |
@@ -848,6 +850,7 @@
 | [0037-sudoku-solver](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0130-surrounded-regions) |
