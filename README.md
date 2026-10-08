@@ -1441,4 +1441,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0207-course-schedule) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
