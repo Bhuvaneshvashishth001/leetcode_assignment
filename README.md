@@ -10,6 +10,7 @@
 | [0130-surrounded-regions](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0210-course-schedule-ii) |
@@ -353,6 +354,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0456-132-pattern) |
@@ -1185,6 +1187,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0094-binary-tree-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0543-diameter-of-binary-tree) |
@@ -1197,6 +1200,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0094-binary-tree-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0543-diameter-of-binary-tree) |
