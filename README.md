@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0094-binary-tree-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0133-clone-graph) |
@@ -348,6 +349,7 @@
 | [0042-trapping-rain-water](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0402-remove-k-digits) |
@@ -1178,6 +1180,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0094-binary-tree-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0113-path-sum-ii) |
 | [0337-house-robber-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0437-path-sum-iii) |
@@ -1188,6 +1191,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0094-binary-tree-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0113-path-sum-ii) |
 | [0337-house-robber-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0437-path-sum-iii) |
