@@ -720,6 +720,7 @@
 | [0045-jump-game-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0070-climbing-stairs) |
@@ -810,6 +811,7 @@
 | [0029-divide-two-integers](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0189-rotate-array) |
@@ -1007,6 +1009,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/0062-unique-paths) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Sliding Window
 |  |
