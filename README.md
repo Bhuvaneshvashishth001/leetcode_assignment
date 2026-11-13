@@ -315,6 +315,7 @@
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
