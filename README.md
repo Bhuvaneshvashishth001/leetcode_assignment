@@ -655,6 +655,7 @@
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2211-count-collisions-on-a-road](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2211-count-collisions-on-a-road) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2409-count-days-spent-together](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2409-count-days-spent-together) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -840,6 +841,7 @@
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2409-count-days-spent-together](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2409-count-days-spent-together) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2591-distribute-money-to-maximum-children) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Bhuvaneshvashishth001/leetcode_assignment/tree/master/2607-make-k-subarray-sums-equal) |
